@@ -1,0 +1,1001 @@
+﻿Lead ID,Prospect ID,Conversion Status,Lead Source,Product Category,Region,Customer Segment,Date
+1,101,Converted,Website,Sporting Goods,West,Wholesale,2024-03-06
+2,102,Converted,Email,Home Appliances,South,Wholesale,2024-12-19
+3,103,Not Converted,Trade Show,Clothing,South,Individual,2024-01-17
+4,104,Converted,Email,Electronics,West,Small Business,2024-01-09
+5,105,Converted,Website,Sporting Goods,North,Retail,2024-02-15
+6,106,Converted,Email,Sporting Goods,South,Wholesale,2023-10-14
+7,107,Converted,Email,Clothing,Central,Individual,2024-04-07
+8,108,Converted,Email,Clothing,Central,Wholesale,2023-07-04
+9,109,Not Converted,Trade Show,Electronics,Central,Wholesale,2024-08-09
+10,110,Converted,Email,Sporting Goods,Central,Enterprise,2023-05-15
+11,111,Converted,Website,Clothing,West,Retail,2024-08-13
+12,112,Converted,Trade Show,Clothing,North,Small Business,2024-12-04
+13,113,Converted,Email,Electronics,West,Enterprise,2023-08-23
+14,114,Converted,Trade Show,Electronics,South,Enterprise,2023-04-13
+15,115,Converted,Email,Books,Central,Small Business,2023-10-04
+16,116,Converted,Email,Home Appliances,Central,Wholesale,2023-08-30
+17,117,Not Converted,Referral,Books,Central,Wholesale,2024-07-23
+18,118,Converted,Email,Electronics,South,Retail,2024-03-19
+19,119,Not Converted,Trade Show,Clothing,East,Wholesale,2024-01-26
+20,120,Not Converted,Website,Electronics,West,Enterprise,2023-07-20
+21,121,Converted,Referral,Sporting Goods,North,Enterprise,2023-05-30
+22,122,Converted,Email,Clothing,South,Enterprise,2023-06-03
+23,123,Not Converted,Email,Books,East,Small Business,2024-04-30
+24,124,Not Converted,Trade Show,Books,East,Wholesale,2023-01-10
+25,125,Not Converted,Referral,Books,North,Wholesale,2023-06-30
+26,126,Converted,Email,Clothing,South,Wholesale,2024-03-08
+27,127,Converted,Website,Home Appliances,East,Wholesale,2024-05-27
+28,128,Not Converted,Website,Home Appliances,Central,Retail,2023-05-18
+29,129,Converted,Email,Home Appliances,North,Retail,2024-10-08
+30,130,Converted,Website,Electronics,Central,Enterprise,2024-06-14
+31,131,Not Converted,Referral,Electronics,North,Enterprise,2024-07-01
+32,132,Converted,Email,Sporting Goods,West,Small Business,2023-11-20
+33,133,Not Converted,Trade Show,Clothing,West,Individual,2024-05-14
+34,134,Not Converted,Email,Sporting Goods,South,Enterprise,2023-11-04
+35,135,Not Converted,Website,Electronics,East,Wholesale,2023-09-14
+36,136,Converted,Email,Clothing,Central,Enterprise,2024-07-30
+37,137,Not Converted,Referral,Books,East,Enterprise,2024-08-05
+38,138,Converted,Email,Clothing,West,Retail,2023-02-18
+39,139,Not Converted,Email,Electronics,Central,Wholesale,2024-02-12
+40,140,Converted,Social Media,Books,South,Small Business,2023-04-12
+41,141,Not Converted,Trade Show,Books,East,Small Business,2024-12-09
+42,142,Not Converted,Website,Clothing,North,Small Business,2023-06-17
+43,143,Converted,Website,Home Appliances,North,Enterprise,2023-03-03
+44,144,Converted,Social Media,Electronics,Central,Small Business,2023-08-09
+45,145,Converted,Email,Electronics,North,Small Business,2023-09-18
+46,146,Converted,Referral,Home Appliances,North,Small Business,2024-05-03
+47,147,Not Converted,Trade Show,Sporting Goods,West,Retail,2024-10-07
+48,148,Converted,Trade Show,Sporting Goods,South,Wholesale,2023-04-09
+49,149,Converted,Website,Electronics,North,Retail,2024-04-06
+50,150,Converted,Social Media,Home Appliances,North,Wholesale,2023-12-09
+51,151,Not Converted,Email,Home Appliances,East,Retail,2023-09-24
+52,152,Not Converted,Email,Books,Central,Wholesale,2024-01-05
+53,153,Not Converted,Email,Sporting Goods,West,Small Business,2024-01-04
+54,154,Not Converted,Website,Sporting Goods,Central,Individual,2024-07-28
+55,155,Converted,Trade Show,Books,East,Small Business,2024-07-25
+56,156,Not Converted,Referral,Clothing,East,Individual,2023-09-21
+57,157,Not Converted,Email,Sporting Goods,East,Small Business,2023-12-19
+58,158,Converted,Website,Books,North,Retail,2023-01-21
+59,159,Not Converted,Website,Home Appliances,Central,Individual,2024-02-26
+60,160,Converted,Social Media,Clothing,Central,Small Business,2023-05-05
+61,161,Converted,Social Media,Electronics,Central,Enterprise,2023-12-26
+62,162,Converted,Social Media,Home Appliances,South,Individual,2024-11-27
+63,163,Converted,Website,Clothing,West,Wholesale,2024-09-13
+64,164,Not Converted,Social Media,Books,North,Retail,2023-07-23
+65,165,Not Converted,Social Media,Home Appliances,West,Small Business,2024-08-14
+66,166,Not Converted,Website,Clothing,North,Small Business,2024-08-13
+67,167,Converted,Website,Electronics,Central,Wholesale,2024-10-28
+68,168,Not Converted,Referral,Home Appliances,South,Small Business,2024-10-27
+69,169,Converted,Trade Show,Home Appliances,South,Small Business,2024-07-06
+70,170,Converted,Email,Sporting Goods,Central,Wholesale,2023-06-28
+71,171,Converted,Website,Clothing,West,Wholesale,2023-10-19
+72,172,Not Converted,Email,Clothing,East,Enterprise,2023-12-30
+73,173,Not Converted,Referral,Sporting Goods,Central,Enterprise,2023-11-29
+74,174,Not Converted,Trade Show,Books,North,Wholesale,2024-11-21
+75,175,Converted,Trade Show,Books,West,Individual,2024-06-07
+76,176,Converted,Trade Show,Sporting Goods,East,Individual,2024-05-15
+77,177,Not Converted,Referral,Home Appliances,South,Individual,2024-04-03
+78,178,Converted,Social Media,Electronics,North,Retail,2023-03-22
+79,179,Not Converted,Trade Show,Books,South,Enterprise,2024-01-26
+80,180,Not Converted,Trade Show,Electronics,North,Individual,2024-09-21
+81,181,Not Converted,Referral,Clothing,East,Individual,2023-10-21
+82,182,Converted,Email,Clothing,North,Individual,2024-04-20
+83,183,Not Converted,Trade Show,Books,East,Wholesale,2024-10-09
+84,184,Converted,Trade Show,Home Appliances,Central,Small Business,2023-05-29
+85,185,Converted,Social Media,Clothing,Central,Retail,2023-06-21
+86,186,Not Converted,Website,Electronics,North,Small Business,2024-10-18
+87,187,Not Converted,Website,Home Appliances,West,Enterprise,2023-12-12
+88,188,Not Converted,Trade Show,Books,South,Small Business,2024-03-08
+89,189,Not Converted,Email,Clothing,North,Retail,2024-10-09
+90,190,Converted,Email,Books,North,Individual,2024-09-20
+91,191,Converted,Social Media,Home Appliances,South,Individual,2024-08-09
+92,192,Not Converted,Email,Home Appliances,North,Wholesale,2024-02-19
+93,193,Converted,Social Media,Home Appliances,South,Wholesale,2023-03-15
+94,194,Converted,Referral,Sporting Goods,East,Retail,2023-03-23
+95,195,Converted,Social Media,Sporting Goods,West,Individual,2023-06-15
+96,196,Converted,Social Media,Electronics,Central,Small Business,2023-12-18
+97,197,Converted,Social Media,Home Appliances,Central,Small Business,2023-08-22
+98,198,Not Converted,Website,Home Appliances,West,Retail,2023-11-18
+99,199,Converted,Referral,Clothing,South,Wholesale,2023-11-21
+100,200,Not Converted,Social Media,Electronics,West,Small Business,2024-10-31
+101,201,Not Converted,Referral,Electronics,South,Enterprise,2023-10-26
+102,202,Not Converted,Referral,Books,West,Retail,2024-12-29
+103,203,Not Converted,Referral,Home Appliances,North,Enterprise,2023-10-01
+104,204,Converted,Email,Clothing,North,Enterprise,2024-09-12
+105,205,Converted,Social Media,Books,West,Wholesale,2024-10-23
+106,206,Not Converted,Website,Sporting Goods,East,Individual,2024-02-09
+107,207,Not Converted,Website,Home Appliances,West,Retail,2023-10-05
+108,208,Converted,Website,Electronics,Central,Individual,2024-04-01
+109,209,Not Converted,Website,Home Appliances,North,Small Business,2024-01-07
+110,210,Not Converted,Social Media,Home Appliances,West,Small Business,2024-08-25
+111,211,Converted,Website,Sporting Goods,Central,Retail,2024-06-18
+112,212,Not Converted,Email,Clothing,North,Wholesale,2024-04-07
+113,213,Converted,Email,Clothing,East,Small Business,2024-02-28
+114,214,Not Converted,Trade Show,Clothing,East,Small Business,2023-06-21
+115,215,Converted,Website,Books,Central,Individual,2023-07-08
+116,216,Converted,Trade Show,Clothing,West,Small Business,2023-01-24
+117,217,Not Converted,Trade Show,Books,North,Wholesale,2023-05-09
+118,218,Converted,Trade Show,Sporting Goods,East,Small Business,2023-08-29
+119,219,Converted,Referral,Home Appliances,Central,Small Business,2024-11-09
+120,220,Not Converted,Website,Books,South,Enterprise,2023-09-15
+121,221,Converted,Email,Sporting Goods,West,Wholesale,2024-12-19
+122,222,Converted,Referral,Books,South,Small Business,2023-03-23
+123,223,Not Converted,Social Media,Sporting Goods,West,Wholesale,2023-08-04
+124,224,Not Converted,Website,Clothing,North,Wholesale,2023-06-20
+125,225,Converted,Referral,Clothing,Central,Small Business,2024-02-11
+126,226,Converted,Trade Show,Sporting Goods,North,Small Business,2023-04-16
+127,227,Not Converted,Referral,Electronics,South,Wholesale,2023-04-08
+128,228,Not Converted,Referral,Sporting Goods,Central,Individual,2023-03-07
+129,229,Converted,Website,Books,North,Individual,2024-04-30
+130,230,Converted,Trade Show,Sporting Goods,North,Wholesale,2024-07-16
+131,231,Converted,Trade Show,Home Appliances,North,Wholesale,2023-02-25
+132,232,Converted,Email,Electronics,South,Individual,2023-01-27
+133,233,Converted,Email,Sporting Goods,North,Individual,2024-02-11
+134,234,Not Converted,Social Media,Electronics,East,Enterprise,2024-06-21
+135,235,Converted,Email,Electronics,West,Individual,2023-03-27
+136,236,Converted,Website,Sporting Goods,East,Individual,2023-04-17
+137,237,Converted,Referral,Sporting Goods,South,Retail,2023-09-26
+138,238,Not Converted,Trade Show,Clothing,South,Small Business,2024-09-25
+139,239,Converted,Referral,Sporting Goods,North,Enterprise,2023-06-09
+140,240,Not Converted,Website,Sporting Goods,Central,Enterprise,2023-03-28
+141,241,Not Converted,Referral,Clothing,East,Wholesale,2024-11-02
+142,242,Converted,Trade Show,Clothing,South,Retail,2024-02-04
+143,243,Converted,Email,Home Appliances,West,Small Business,2023-11-13
+144,244,Not Converted,Social Media,Sporting Goods,South,Enterprise,2023-08-23
+145,245,Not Converted,Trade Show,Books,East,Individual,2023-09-11
+146,246,Not Converted,Trade Show,Electronics,West,Individual,2023-10-18
+147,247,Not Converted,Trade Show,Clothing,West,Individual,2024-03-30
+148,248,Not Converted,Trade Show,Sporting Goods,North,Small Business,2024-10-04
+149,249,Converted,Email,Books,Central,Enterprise,2023-05-10
+150,250,Converted,Trade Show,Electronics,West,Small Business,2023-05-15
+151,251,Converted,Referral,Sporting Goods,North,Wholesale,2024-06-24
+152,252,Converted,Email,Books,Central,Wholesale,2023-06-24
+153,253,Not Converted,Email,Electronics,North,Retail,2023-01-30
+154,254,Converted,Email,Books,South,Wholesale,2023-02-05
+155,255,Converted,Referral,Clothing,South,Enterprise,2024-11-11
+156,256,Converted,Referral,Sporting Goods,Central,Enterprise,2024-01-01
+157,257,Converted,Referral,Books,North,Enterprise,2023-11-30
+158,258,Converted,Website,Books,East,Individual,2024-05-03
+159,259,Converted,Email,Sporting Goods,North,Individual,2024-04-24
+160,260,Converted,Email,Electronics,East,Enterprise,2024-07-08
+161,261,Converted,Trade Show,Sporting Goods,West,Wholesale,2023-10-06
+162,262,Converted,Social Media,Books,West,Wholesale,2024-07-16
+163,263,Not Converted,Website,Home Appliances,West,Retail,2024-04-01
+164,264,Converted,Email,Electronics,North,Small Business,2023-05-19
+165,265,Converted,Website,Books,Central,Retail,2024-12-16
+166,266,Not Converted,Website,Home Appliances,East,Small Business,2024-07-07
+167,267,Not Converted,Email,Electronics,North,Wholesale,2023-07-01
+168,268,Converted,Email,Clothing,West,Enterprise,2024-08-29
+169,269,Converted,Social Media,Sporting Goods,South,Individual,2024-09-04
+170,270,Not Converted,Social Media,Electronics,West,Retail,2024-04-13
+171,271,Converted,Social Media,Electronics,Central,Retail,2024-10-09
+172,272,Not Converted,Referral,Books,West,Wholesale,2024-10-14
+173,273,Not Converted,Email,Home Appliances,Central,Small Business,2024-08-01
+174,274,Converted,Referral,Electronics,South,Retail,2024-03-22
+175,275,Converted,Email,Sporting Goods,East,Small Business,2024-06-21
+176,276,Converted,Referral,Electronics,West,Retail,2024-10-18
+177,277,Not Converted,Trade Show,Electronics,Central,Enterprise,2024-10-17
+178,278,Not Converted,Trade Show,Books,East,Wholesale,2024-07-01
+179,279,Not Converted,Website,Electronics,South,Small Business,2023-11-14
+180,280,Not Converted,Website,Home Appliances,Central,Wholesale,2023-12-22
+181,281,Not Converted,Email,Books,South,Individual,2024-05-09
+182,282,Converted,Email,Clothing,South,Wholesale,2024-07-07
+183,283,Converted,Trade Show,Clothing,North,Small Business,2023-08-21
+184,284,Converted,Email,Books,East,Small Business,2023-04-02
+185,285,Not Converted,Website,Home Appliances,North,Individual,2024-03-29
+186,286,Not Converted,Email,Books,South,Individual,2023-11-12
+187,287,Converted,Social Media,Books,Central,Retail,2024-01-10
+188,288,Converted,Social Media,Books,West,Small Business,2024-02-27
+189,289,Converted,Social Media,Books,North,Wholesale,2023-09-24
+190,290,Converted,Email,Electronics,West,Individual,2023-06-09
+191,291,Not Converted,Social Media,Sporting Goods,North,Wholesale,2023-11-07
+192,292,Converted,Social Media,Clothing,East,Individual,2023-01-11
+193,293,Not Converted,Referral,Home Appliances,West,Small Business,2023-01-01
+194,294,Converted,Email,Electronics,North,Individual,2024-06-20
+195,295,Not Converted,Trade Show,Clothing,South,Small Business,2023-05-20
+196,296,Not Converted,Website,Sporting Goods,Central,Individual,2023-12-19
+197,297,Converted,Referral,Books,South,Retail,2023-10-21
+198,298,Converted,Social Media,Sporting Goods,East,Individual,2024-04-26
+199,299,Not Converted,Website,Clothing,East,Retail,2024-07-02
+200,300,Converted,Referral,Clothing,North,Retail,2023-01-09
+201,301,Converted,Trade Show,Electronics,South,Wholesale,2024-12-06
+202,302,Converted,Social Media,Electronics,West,Small Business,2024-05-19
+203,303,Converted,Trade Show,Home Appliances,North,Individual,2024-05-04
+204,304,Converted,Referral,Books,North,Individual,2023-11-03
+205,305,Converted,Website,Sporting Goods,South,Enterprise,2023-01-10
+206,306,Not Converted,Email,Books,Central,Individual,2024-03-17
+207,307,Not Converted,Social Media,Sporting Goods,East,Small Business,2023-10-27
+208,308,Not Converted,Email,Books,West,Small Business,2024-09-04
+209,309,Converted,Website,Clothing,East,Individual,2023-08-25
+210,310,Not Converted,Website,Clothing,North,Retail,2023-01-08
+211,311,Converted,Email,Books,Central,Enterprise,2024-07-16
+212,312,Converted,Referral,Home Appliances,North,Small Business,2024-01-18
+213,313,Not Converted,Email,Clothing,Central,Enterprise,2023-07-13
+214,314,Converted,Email,Home Appliances,South,Enterprise,2024-02-26
+215,315,Not Converted,Referral,Clothing,East,Small Business,2024-07-29
+216,316,Not Converted,Referral,Electronics,North,Retail,2024-03-24
+217,317,Not Converted,Referral,Electronics,Central,Retail,2024-02-09
+218,318,Not Converted,Website,Books,Central,Small Business,2023-09-13
+219,319,Not Converted,Website,Sporting Goods,North,Individual,2023-06-17
+220,320,Not Converted,Social Media,Electronics,East,Individual,2024-10-24
+221,321,Converted,Social Media,Clothing,South,Enterprise,2024-02-04
+222,322,Converted,Email,Clothing,South,Individual,2024-01-23
+223,323,Not Converted,Email,Electronics,West,Enterprise,2023-08-14
+224,324,Converted,Social Media,Electronics,West,Individual,2023-09-27
+225,325,Converted,Trade Show,Sporting Goods,West,Retail,2023-03-23
+226,326,Converted,Email,Electronics,East,Retail,2024-03-09
+227,327,Not Converted,Trade Show,Books,West,Retail,2024-10-03
+228,328,Converted,Trade Show,Sporting Goods,West,Individual,2023-09-03
+229,329,Converted,Referral,Electronics,East,Enterprise,2024-06-14
+230,330,Not Converted,Website,Clothing,West,Enterprise,2024-09-20
+231,331,Converted,Social Media,Electronics,South,Retail,2024-12-12
+232,332,Converted,Website,Books,North,Retail,2024-12-03
+233,333,Converted,Social Media,Books,South,Individual,2023-10-06
+234,334,Converted,Website,Clothing,South,Individual,2023-10-19
+235,335,Converted,Social Media,Sporting Goods,Central,Enterprise,2024-10-27
+236,336,Converted,Website,Clothing,North,Wholesale,2024-06-29
+237,337,Converted,Referral,Electronics,South,Enterprise,2023-10-03
+238,338,Not Converted,Trade Show,Clothing,North,Individual,2024-02-27
+239,339,Converted,Social Media,Sporting Goods,South,Small Business,2023-07-12
+240,340,Converted,Trade Show,Home Appliances,East,Individual,2023-03-12
+241,341,Converted,Social Media,Clothing,East,Individual,2023-07-06
+242,342,Converted,Social Media,Sporting Goods,West,Small Business,2023-05-20
+243,343,Not Converted,Referral,Home Appliances,East,Individual,2023-10-24
+244,344,Not Converted,Trade Show,Sporting Goods,North,Enterprise,2023-04-24
+245,345,Not Converted,Social Media,Sporting Goods,Central,Small Business,2024-10-15
+246,346,Converted,Website,Home Appliances,West,Wholesale,2024-04-12
+247,347,Not Converted,Referral,Clothing,South,Individual,2024-09-25
+248,348,Converted,Email,Home Appliances,East,Wholesale,2024-04-09
+249,349,Not Converted,Trade Show,Clothing,West,Wholesale,2023-10-06
+250,350,Not Converted,Social Media,Sporting Goods,East,Small Business,2024-12-19
+251,351,Converted,Trade Show,Clothing,West,Retail,2024-09-30
+252,352,Not Converted,Website,Books,North,Wholesale,2024-05-19
+253,353,Not Converted,Social Media,Home Appliances,North,Wholesale,2023-07-12
+254,354,Not Converted,Website,Home Appliances,South,Retail,2023-11-25
+255,355,Converted,Email,Electronics,West,Enterprise,2023-01-20
+256,356,Converted,Social Media,Sporting Goods,Central,Retail,2023-06-05
+257,357,Not Converted,Trade Show,Sporting Goods,North,Enterprise,2023-02-20
+258,358,Converted,Social Media,Clothing,South,Enterprise,2024-07-02
+259,359,Converted,Trade Show,Books,West,Retail,2023-01-23
+260,360,Converted,Trade Show,Sporting Goods,South,Wholesale,2023-07-10
+261,361,Not Converted,Social Media,Books,North,Enterprise,2023-04-15
+262,362,Converted,Referral,Electronics,South,Retail,2023-10-16
+263,363,Not Converted,Referral,Home Appliances,West,Individual,2023-10-03
+264,364,Converted,Email,Books,East,Wholesale,2023-05-09
+265,365,Converted,Referral,Sporting Goods,Central,Enterprise,2024-03-25
+266,366,Not Converted,Email,Home Appliances,North,Small Business,2023-01-09
+267,367,Not Converted,Website,Books,West,Wholesale,2023-08-27
+268,368,Converted,Trade Show,Books,West,Individual,2023-04-03
+269,369,Not Converted,Website,Clothing,South,Individual,2023-06-04
+270,370,Not Converted,Trade Show,Home Appliances,North,Retail,2023-01-16
+271,371,Converted,Trade Show,Books,East,Individual,2024-05-21
+272,372,Not Converted,Email,Clothing,East,Small Business,2023-08-11
+273,373,Converted,Referral,Sporting Goods,Central,Retail,2023-12-17
+274,374,Converted,Referral,Books,Central,Individual,2024-03-07
+275,375,Not Converted,Email,Clothing,South,Enterprise,2023-11-16
+276,376,Converted,Email,Clothing,North,Wholesale,2024-05-26
+277,377,Converted,Website,Home Appliances,East,Small Business,2024-01-16
+278,378,Converted,Email,Clothing,North,Small Business,2024-04-20
+279,379,Not Converted,Referral,Books,South,Small Business,2024-12-15
+280,380,Not Converted,Email,Electronics,North,Enterprise,2023-02-02
+281,381,Converted,Email,Sporting Goods,North,Individual,2023-12-05
+282,382,Not Converted,Trade Show,Books,North,Wholesale,2023-03-24
+283,383,Converted,Email,Books,South,Wholesale,2023-05-30
+284,384,Not Converted,Website,Sporting Goods,South,Enterprise,2023-02-27
+285,385,Not Converted,Trade Show,Sporting Goods,South,Retail,2023-09-30
+286,386,Not Converted,Social Media,Clothing,East,Individual,2024-02-06
+287,387,Converted,Social Media,Books,West,Small Business,2023-03-15
+288,388,Converted,Trade Show,Clothing,North,Retail,2024-07-11
+289,389,Not Converted,Trade Show,Home Appliances,Central,Enterprise,2024-04-27
+290,390,Not Converted,Social Media,Clothing,Central,Individual,2023-07-05
+291,391,Converted,Trade Show,Home Appliances,West,Individual,2023-07-16
+292,392,Converted,Trade Show,Electronics,North,Individual,2023-09-14
+293,393,Not Converted,Referral,Books,North,Retail,2024-01-26
+294,394,Converted,Referral,Home Appliances,North,Retail,2023-01-13
+295,395,Not Converted,Email,Electronics,South,Enterprise,2023-05-05
+296,396,Converted,Trade Show,Sporting Goods,East,Small Business,2023-09-12
+297,397,Not Converted,Website,Clothing,South,Retail,2024-01-30
+298,398,Not Converted,Social Media,Electronics,North,Wholesale,2024-03-30
+299,399,Converted,Social Media,Home Appliances,West,Retail,2023-09-11
+300,400,Converted,Referral,Books,North,Retail,2023-02-04
+301,401,Converted,Referral,Sporting Goods,North,Individual,2023-07-23
+302,402,Converted,Trade Show,Sporting Goods,East,Wholesale,2024-04-17
+303,403,Converted,Website,Electronics,North,Small Business,2023-04-07
+304,404,Not Converted,Referral,Electronics,South,Wholesale,2024-06-18
+305,405,Converted,Trade Show,Clothing,Central,Small Business,2024-11-13
+306,406,Not Converted,Trade Show,Sporting Goods,East,Enterprise,2023-08-02
+307,407,Converted,Referral,Sporting Goods,East,Individual,2024-04-30
+308,408,Converted,Social Media,Clothing,East,Enterprise,2024-02-03
+309,409,Not Converted,Social Media,Books,North,Retail,2024-11-29
+310,410,Not Converted,Website,Clothing,East,Retail,2023-11-16
+311,411,Converted,Website,Home Appliances,East,Individual,2023-11-27
+312,412,Not Converted,Referral,Home Appliances,South,Enterprise,2023-06-12
+313,413,Converted,Referral,Electronics,West,Wholesale,2024-10-07
+314,414,Converted,Website,Clothing,South,Enterprise,2023-02-13
+315,415,Converted,Website,Clothing,South,Small Business,2024-07-17
+316,416,Not Converted,Trade Show,Electronics,West,Retail,2024-06-18
+317,417,Not Converted,Trade Show,Books,West,Wholesale,2023-05-06
+318,418,Converted,Trade Show,Clothing,East,Retail,2023-09-17
+319,419,Converted,Social Media,Sporting Goods,South,Enterprise,2024-05-08
+320,420,Converted,Social Media,Clothing,North,Individual,2024-10-16
+321,421,Converted,Trade Show,Books,Central,Wholesale,2023-11-02
+322,422,Not Converted,Trade Show,Clothing,Central,Individual,2023-07-23
+323,423,Converted,Website,Sporting Goods,Central,Enterprise,2024-01-05
+324,424,Converted,Social Media,Home Appliances,South,Small Business,2023-02-23
+325,425,Not Converted,Trade Show,Home Appliances,West,Individual,2024-11-14
+326,426,Not Converted,Email,Books,East,Individual,2023-08-12
+327,427,Converted,Referral,Books,East,Enterprise,2023-04-26
+328,428,Not Converted,Trade Show,Sporting Goods,Central,Wholesale,2023-08-30
+329,429,Converted,Social Media,Home Appliances,East,Enterprise,2024-10-11
+330,430,Converted,Trade Show,Home Appliances,North,Individual,2024-03-21
+331,431,Not Converted,Email,Home Appliances,North,Retail,2023-11-29
+332,432,Converted,Website,Home Appliances,West,Retail,2023-01-16
+333,433,Not Converted,Social Media,Sporting Goods,East,Individual,2023-06-21
+334,434,Converted,Website,Books,South,Wholesale,2023-10-10
+335,435,Converted,Referral,Books,East,Individual,2024-08-22
+336,436,Not Converted,Website,Electronics,South,Retail,2023-05-03
+337,437,Not Converted,Trade Show,Books,Central,Small Business,2024-02-10
+338,438,Not Converted,Email,Home Appliances,South,Individual,2023-09-06
+339,439,Converted,Website,Clothing,Central,Individual,2023-01-10
+340,440,Converted,Trade Show,Home Appliances,North,Small Business,2023-02-13
+341,441,Converted,Social Media,Home Appliances,East,Wholesale,2024-08-19
+342,442,Converted,Social Media,Books,West,Enterprise,2024-12-09
+343,443,Not Converted,Trade Show,Electronics,East,Retail,2024-05-02
+344,444,Not Converted,Trade Show,Sporting Goods,Central,Retail,2024-12-06
+345,445,Not Converted,Trade Show,Clothing,East,Enterprise,2024-09-03
+346,446,Converted,Email,Clothing,West,Enterprise,2023-06-08
+347,447,Not Converted,Referral,Electronics,Central,Enterprise,2024-01-16
+348,448,Not Converted,Referral,Home Appliances,Central,Enterprise,2023-04-02
+349,449,Not Converted,Referral,Sporting Goods,West,Retail,2023-09-12
+350,450,Not Converted,Social Media,Sporting Goods,East,Individual,2023-06-11
+351,451,Converted,Social Media,Sporting Goods,West,Individual,2024-05-27
+352,452,Converted,Referral,Books,South,Small Business,2023-04-04
+353,453,Not Converted,Trade Show,Home Appliances,North,Individual,2024-12-04
+354,454,Converted,Website,Clothing,West,Wholesale,2024-09-26
+355,455,Not Converted,Referral,Clothing,Central,Wholesale,2023-12-13
+356,456,Converted,Website,Home Appliances,South,Enterprise,2024-10-03
+357,457,Converted,Referral,Clothing,North,Small Business,2023-03-03
+358,458,Not Converted,Trade Show,Books,West,Retail,2023-03-03
+359,459,Not Converted,Trade Show,Sporting Goods,North,Individual,2023-12-31
+360,460,Not Converted,Social Media,Clothing,East,Individual,2024-10-23
+361,461,Not Converted,Referral,Books,Central,Retail,2023-06-07
+362,462,Converted,Referral,Sporting Goods,West,Wholesale,2024-12-20
+363,463,Not Converted,Trade Show,Home Appliances,Central,Enterprise,2024-07-04
+364,464,Converted,Email,Home Appliances,South,Small Business,2023-04-20
+365,465,Not Converted,Referral,Books,South,Wholesale,2023-05-09
+366,466,Converted,Website,Books,North,Small Business,2024-05-15
+367,467,Not Converted,Trade Show,Books,South,Enterprise,2023-08-27
+368,468,Converted,Email,Clothing,South,Individual,2023-11-21
+369,469,Converted,Referral,Home Appliances,West,Enterprise,2024-07-26
+370,470,Not Converted,Referral,Clothing,Central,Wholesale,2024-10-23
+371,471,Not Converted,Social Media,Clothing,North,Individual,2023-12-22
+372,472,Converted,Email,Sporting Goods,South,Enterprise,2024-03-26
+373,473,Not Converted,Trade Show,Books,Central,Individual,2023-07-17
+374,474,Not Converted,Website,Clothing,East,Individual,2023-01-22
+375,475,Converted,Referral,Sporting Goods,West,Small Business,2024-12-07
+376,476,Not Converted,Trade Show,Electronics,South,Small Business,2024-01-22
+377,477,Not Converted,Social Media,Sporting Goods,South,Wholesale,2024-01-02
+378,478,Not Converted,Referral,Electronics,South,Enterprise,2023-05-18
+379,479,Not Converted,Email,Electronics,Central,Retail,2023-09-14
+380,480,Not Converted,Trade Show,Electronics,West,Enterprise,2023-02-10
+381,481,Not Converted,Website,Electronics,West,Individual,2024-05-12
+382,482,Converted,Social Media,Books,Central,Wholesale,2024-12-25
+383,483,Converted,Trade Show,Clothing,North,Wholesale,2024-03-25
+384,484,Not Converted,Referral,Clothing,West,Retail,2024-07-27
+385,485,Not Converted,Website,Electronics,Central,Individual,2023-10-29
+386,486,Converted,Referral,Clothing,Central,Individual,2024-07-10
+387,487,Not Converted,Referral,Electronics,South,Wholesale,2024-12-15
+388,488,Not Converted,Trade Show,Clothing,Central,Wholesale,2024-05-17
+389,489,Converted,Email,Sporting Goods,South,Retail,2023-07-14
+390,490,Not Converted,Trade Show,Books,East,Retail,2024-08-04
+391,491,Not Converted,Social Media,Home Appliances,Central,Small Business,2023-07-11
+392,492,Converted,Email,Electronics,West,Wholesale,2024-07-11
+393,493,Not Converted,Email,Sporting Goods,South,Retail,2023-12-23
+394,494,Not Converted,Trade Show,Sporting Goods,East,Individual,2023-11-28
+395,495,Not Converted,Email,Books,North,Small Business,2024-04-25
+396,496,Not Converted,Website,Books,North,Wholesale,2023-10-09
+397,497,Not Converted,Referral,Electronics,North,Retail,2024-09-06
+398,498,Converted,Website,Electronics,South,Wholesale,2024-07-22
+399,499,Not Converted,Trade Show,Sporting Goods,Central,Small Business,2023-06-14
+400,500,Converted,Trade Show,Sporting Goods,South,Enterprise,2023-03-12
+401,501,Converted,Trade Show,Books,North,Wholesale,2024-06-28
+402,502,Not Converted,Website,Electronics,Central,Wholesale,2023-06-08
+403,503,Not Converted,Referral,Electronics,East,Wholesale,2024-04-06
+404,504,Converted,Trade Show,Sporting Goods,North,Wholesale,2023-10-30
+405,505,Converted,Email,Home Appliances,West,Retail,2023-09-27
+406,506,Not Converted,Trade Show,Sporting Goods,Central,Enterprise,2024-07-09
+407,507,Converted,Social Media,Home Appliances,South,Individual,2024-01-11
+408,508,Converted,Email,Electronics,South,Wholesale,2024-04-10
+409,509,Converted,Email,Sporting Goods,West,Individual,2023-01-01
+410,510,Converted,Email,Books,South,Retail,2024-10-16
+411,511,Converted,Trade Show,Clothing,West,Enterprise,2024-06-03
+412,512,Converted,Email,Electronics,North,Small Business,2024-01-24
+413,513,Not Converted,Social Media,Electronics,North,Small Business,2023-07-09
+414,514,Converted,Website,Sporting Goods,South,Small Business,2023-01-20
+415,515,Not Converted,Social Media,Clothing,Central,Small Business,2024-09-27
+416,516,Not Converted,Referral,Clothing,South,Small Business,2024-01-08
+417,517,Converted,Email,Clothing,North,Enterprise,2024-09-28
+418,518,Not Converted,Social Media,Sporting Goods,Central,Wholesale,2023-09-02
+419,519,Not Converted,Trade Show,Sporting Goods,West,Small Business,2023-11-25
+420,520,Not Converted,Trade Show,Home Appliances,North,Wholesale,2023-03-06
+421,521,Converted,Social Media,Home Appliances,West,Individual,2024-11-06
+422,522,Converted,Email,Home Appliances,East,Wholesale,2024-07-06
+423,523,Converted,Trade Show,Books,Central,Individual,2024-02-01
+424,524,Converted,Email,Electronics,North,Wholesale,2023-07-14
+425,525,Not Converted,Referral,Home Appliances,West,Individual,2024-06-21
+426,526,Converted,Social Media,Books,West,Wholesale,2024-12-01
+427,527,Converted,Email,Books,West,Wholesale,2024-05-25
+428,528,Not Converted,Referral,Sporting Goods,South,Enterprise,2024-07-19
+429,529,Converted,Trade Show,Clothing,South,Individual,2023-06-07
+430,530,Converted,Trade Show,Clothing,East,Wholesale,2024-09-20
+431,531,Converted,Social Media,Home Appliances,East,Enterprise,2023-10-17
+432,532,Not Converted,Referral,Electronics,West,Enterprise,2023-11-27
+433,533,Converted,Social Media,Electronics,South,Individual,2024-02-24
+434,534,Not Converted,Trade Show,Electronics,Central,Wholesale,2024-10-19
+435,535,Not Converted,Trade Show,Books,Central,Enterprise,2023-11-26
+436,536,Not Converted,Social Media,Books,West,Small Business,2023-04-24
+437,537,Not Converted,Email,Books,South,Small Business,2023-04-09
+438,538,Not Converted,Email,Sporting Goods,Central,Small Business,2024-06-20
+439,539,Converted,Trade Show,Books,South,Wholesale,2024-11-06
+440,540,Not Converted,Email,Electronics,East,Small Business,2023-03-10
+441,541,Not Converted,Referral,Electronics,West,Retail,2023-02-14
+442,542,Not Converted,Website,Clothing,West,Individual,2023-05-13
+443,543,Converted,Social Media,Electronics,South,Retail,2023-07-02
+444,544,Not Converted,Referral,Books,South,Retail,2023-02-02
+445,545,Not Converted,Trade Show,Books,North,Small Business,2023-07-26
+446,546,Converted,Website,Home Appliances,Central,Individual,2023-04-20
+447,547,Not Converted,Trade Show,Sporting Goods,East,Enterprise,2024-05-13
+448,548,Not Converted,Website,Electronics,Central,Retail,2023-07-16
+449,549,Converted,Referral,Sporting Goods,North,Enterprise,2023-04-12
+450,550,Not Converted,Website,Electronics,South,Enterprise,2023-02-02
+451,551,Converted,Email,Clothing,Central,Wholesale,2024-08-08
+452,552,Not Converted,Referral,Clothing,West,Individual,2024-10-20
+453,553,Not Converted,Trade Show,Sporting Goods,Central,Individual,2024-02-02
+454,554,Not Converted,Trade Show,Books,South,Retail,2024-11-05
+455,555,Converted,Email,Home Appliances,Central,Wholesale,2024-05-17
+456,556,Converted,Social Media,Electronics,North,Wholesale,2024-06-23
+457,557,Converted,Trade Show,Electronics,East,Wholesale,2024-10-01
+458,558,Converted,Email,Home Appliances,South,Individual,2024-12-20
+459,559,Not Converted,Social Media,Sporting Goods,West,Individual,2024-08-28
+460,560,Converted,Referral,Sporting Goods,North,Small Business,2023-09-20
+461,561,Converted,Website,Electronics,South,Individual,2023-02-20
+462,562,Converted,Social Media,Clothing,West,Individual,2024-01-11
+463,563,Not Converted,Website,Home Appliances,West,Wholesale,2023-08-15
+464,564,Not Converted,Social Media,Electronics,South,Enterprise,2024-09-13
+465,565,Not Converted,Trade Show,Clothing,North,Retail,2023-03-14
+466,566,Not Converted,Referral,Sporting Goods,West,Enterprise,2023-01-14
+467,567,Not Converted,Email,Clothing,East,Retail,2023-08-02
+468,568,Converted,Social Media,Books,North,Small Business,2024-11-03
+469,569,Converted,Website,Electronics,West,Individual,2024-05-19
+470,570,Not Converted,Trade Show,Home Appliances,South,Retail,2023-03-23
+471,571,Not Converted,Email,Clothing,South,Retail,2024-04-25
+472,572,Converted,Website,Sporting Goods,North,Retail,2024-10-17
+473,573,Not Converted,Referral,Clothing,West,Retail,2023-03-04
+474,574,Not Converted,Website,Sporting Goods,West,Individual,2024-01-05
+475,575,Converted,Referral,Books,North,Enterprise,2024-07-26
+476,576,Not Converted,Email,Sporting Goods,North,Retail,2024-03-02
+477,577,Not Converted,Email,Home Appliances,North,Wholesale,2024-01-13
+478,578,Not Converted,Website,Books,East,Retail,2024-12-27
+479,579,Not Converted,Referral,Clothing,East,Individual,2023-03-01
+480,580,Converted,Social Media,Electronics,East,Wholesale,2024-09-24
+481,581,Not Converted,Email,Sporting Goods,South,Individual,2023-09-30
+482,582,Converted,Social Media,Home Appliances,East,Small Business,2024-06-26
+483,583,Not Converted,Social Media,Electronics,East,Individual,2023-02-11
+484,584,Not Converted,Trade Show,Electronics,East,Wholesale,2023-03-14
+485,585,Not Converted,Website,Books,West,Enterprise,2023-11-08
+486,586,Converted,Website,Clothing,Central,Wholesale,2023-03-21
+487,587,Not Converted,Website,Electronics,East,Enterprise,2023-08-10
+488,588,Not Converted,Trade Show,Home Appliances,North,Wholesale,2024-06-16
+489,589,Not Converted,Email,Sporting Goods,East,Retail,2023-04-10
+490,590,Converted,Email,Sporting Goods,Central,Individual,2023-04-14
+491,591,Not Converted,Trade Show,Sporting Goods,South,Small Business,2023-08-25
+492,592,Converted,Trade Show,Books,South,Enterprise,2024-06-29
+493,593,Converted,Trade Show,Home Appliances,East,Enterprise,2024-01-30
+494,594,Not Converted,Social Media,Electronics,North,Retail,2023-07-14
+495,595,Converted,Website,Home Appliances,North,Retail,2023-07-17
+496,596,Converted,Referral,Books,West,Wholesale,2024-06-23
+497,597,Not Converted,Email,Books,North,Enterprise,2024-11-04
+498,598,Converted,Referral,Clothing,West,Individual,2023-09-12
+499,599,Not Converted,Website,Home Appliances,West,Wholesale,2024-08-07
+500,600,Converted,Website,Sporting Goods,North,Retail,2024-10-03
+501,601,Converted,Email,Books,North,Enterprise,2023-07-03
+502,602,Not Converted,Social Media,Books,West,Small Business,2024-07-26
+503,603,Not Converted,Trade Show,Clothing,South,Small Business,2024-07-26
+504,604,Not Converted,Social Media,Sporting Goods,East,Enterprise,2024-03-02
+505,605,Converted,Website,Books,South,Individual,2023-04-19
+506,606,Not Converted,Trade Show,Electronics,North,Enterprise,2024-10-16
+507,607,Not Converted,Social Media,Sporting Goods,Central,Individual,2024-08-14
+508,608,Not Converted,Trade Show,Home Appliances,North,Retail,2024-01-02
+509,609,Not Converted,Trade Show,Clothing,West,Individual,2024-11-22
+510,610,Not Converted,Trade Show,Electronics,Central,Individual,2024-04-15
+511,611,Not Converted,Trade Show,Electronics,Central,Enterprise,2024-12-21
+512,612,Not Converted,Trade Show,Home Appliances,East,Enterprise,2024-11-13
+513,613,Converted,Email,Clothing,North,Small Business,2024-03-14
+514,614,Not Converted,Email,Books,East,Retail,2023-04-17
+515,615,Converted,Referral,Clothing,South,Wholesale,2023-06-20
+516,616,Converted,Social Media,Books,Central,Enterprise,2023-07-04
+517,617,Not Converted,Website,Home Appliances,East,Retail,2024-07-18
+518,618,Converted,Trade Show,Home Appliances,South,Retail,2024-02-16
+519,619,Converted,Referral,Electronics,North,Small Business,2024-06-01
+520,620,Converted,Email,Electronics,North,Enterprise,2023-12-12
+521,621,Converted,Trade Show,Electronics,West,Enterprise,2024-11-05
+522,622,Converted,Social Media,Home Appliances,South,Retail,2023-06-11
+523,623,Converted,Email,Books,South,Enterprise,2024-07-01
+524,624,Converted,Trade Show,Home Appliances,East,Small Business,2024-09-07
+525,625,Converted,Trade Show,Home Appliances,Central,Small Business,2024-03-30
+526,626,Converted,Referral,Electronics,Central,Small Business,2023-12-27
+527,627,Converted,Website,Clothing,West,Enterprise,2023-11-19
+528,628,Not Converted,Trade Show,Electronics,West,Enterprise,2024-07-18
+529,629,Converted,Trade Show,Clothing,West,Small Business,2023-11-29
+530,630,Converted,Trade Show,Books,South,Individual,2024-01-16
+531,631,Not Converted,Trade Show,Books,North,Wholesale,2024-02-27
+532,632,Not Converted,Trade Show,Sporting Goods,North,Retail,2024-10-11
+533,633,Not Converted,Website,Sporting Goods,East,Individual,2024-03-17
+534,634,Converted,Social Media,Sporting Goods,Central,Wholesale,2023-11-28
+535,635,Converted,Social Media,Books,Central,Enterprise,2024-09-16
+536,636,Converted,Website,Electronics,East,Retail,2023-09-04
+537,637,Not Converted,Social Media,Electronics,South,Individual,2024-07-31
+538,638,Converted,Referral,Electronics,North,Retail,2024-07-13
+539,639,Converted,Referral,Home Appliances,West,Enterprise,2023-08-08
+540,640,Not Converted,Website,Sporting Goods,North,Wholesale,2024-01-20
+541,641,Not Converted,Referral,Electronics,East,Wholesale,2024-07-18
+542,642,Not Converted,Website,Sporting Goods,North,Wholesale,2023-09-18
+543,643,Converted,Referral,Sporting Goods,West,Individual,2024-01-04
+544,644,Converted,Email,Home Appliances,Central,Wholesale,2024-04-09
+545,645,Converted,Website,Books,East,Individual,2024-04-04
+546,646,Converted,Trade Show,Electronics,South,Individual,2024-02-11
+547,647,Not Converted,Referral,Home Appliances,North,Small Business,2023-01-01
+548,648,Converted,Email,Books,North,Individual,2023-02-05
+549,649,Converted,Website,Books,South,Retail,2023-10-19
+550,650,Not Converted,Referral,Electronics,South,Wholesale,2024-09-03
+551,651,Not Converted,Trade Show,Sporting Goods,West,Individual,2023-01-17
+552,652,Not Converted,Referral,Clothing,North,Enterprise,2024-06-15
+553,653,Converted,Email,Sporting Goods,East,Individual,2023-05-19
+554,654,Not Converted,Social Media,Sporting Goods,North,Individual,2023-11-06
+555,655,Converted,Social Media,Clothing,West,Small Business,2023-01-07
+556,656,Not Converted,Email,Books,East,Retail,2023-11-04
+557,657,Not Converted,Trade Show,Clothing,East,Enterprise,2023-08-16
+558,658,Converted,Website,Clothing,East,Small Business,2023-08-08
+559,659,Not Converted,Social Media,Home Appliances,West,Retail,2023-11-19
+560,660,Not Converted,Website,Home Appliances,North,Individual,2023-01-23
+561,661,Not Converted,Trade Show,Home Appliances,Central,Enterprise,2024-12-08
+562,662,Converted,Email,Books,East,Retail,2023-10-10
+563,663,Not Converted,Website,Clothing,South,Small Business,2024-07-21
+564,664,Converted,Trade Show,Electronics,West,Individual,2024-06-08
+565,665,Not Converted,Website,Clothing,East,Individual,2024-07-24
+566,666,Not Converted,Referral,Books,West,Wholesale,2024-08-08
+567,667,Not Converted,Referral,Home Appliances,South,Small Business,2024-08-09
+568,668,Not Converted,Trade Show,Books,East,Enterprise,2023-06-08
+569,669,Not Converted,Social Media,Home Appliances,North,Individual,2023-04-07
+570,670,Not Converted,Trade Show,Books,West,Wholesale,2023-02-08
+571,671,Converted,Trade Show,Electronics,East,Retail,2024-04-17
+572,672,Converted,Referral,Home Appliances,East,Individual,2023-12-31
+573,673,Not Converted,Website,Home Appliances,West,Retail,2023-06-09
+574,674,Not Converted,Email,Clothing,South,Individual,2023-05-22
+575,675,Converted,Referral,Books,West,Retail,2023-09-29
+576,676,Not Converted,Referral,Sporting Goods,Central,Small Business,2024-01-11
+577,677,Not Converted,Website,Sporting Goods,North,Retail,2024-08-20
+578,678,Not Converted,Referral,Clothing,South,Retail,2023-09-13
+579,679,Converted,Referral,Books,North,Individual,2023-08-27
+580,680,Not Converted,Trade Show,Electronics,North,Individual,2023-09-20
+581,681,Not Converted,Referral,Clothing,West,Retail,2023-11-04
+582,682,Converted,Social Media,Home Appliances,Central,Small Business,2023-04-05
+583,683,Not Converted,Social Media,Electronics,East,Enterprise,2024-08-08
+584,684,Converted,Social Media,Books,Central,Wholesale,2024-02-14
+585,685,Not Converted,Social Media,Home Appliances,South,Retail,2024-08-06
+586,686,Not Converted,Referral,Sporting Goods,Central,Small Business,2023-08-11
+587,687,Not Converted,Email,Books,North,Retail,2023-03-21
+588,688,Not Converted,Social Media,Home Appliances,East,Wholesale,2023-11-29
+589,689,Not Converted,Social Media,Books,Central,Enterprise,2024-05-10
+590,690,Converted,Referral,Home Appliances,East,Enterprise,2023-06-27
+591,691,Converted,Trade Show,Books,Central,Retail,2024-05-15
+592,692,Converted,Trade Show,Sporting Goods,East,Wholesale,2024-12-08
+593,693,Converted,Website,Clothing,Central,Retail,2024-12-21
+594,694,Not Converted,Social Media,Home Appliances,South,Individual,2024-08-14
+595,695,Not Converted,Website,Home Appliances,East,Enterprise,2023-04-08
+596,696,Converted,Social Media,Sporting Goods,West,Small Business,2024-09-02
+597,697,Not Converted,Trade Show,Clothing,North,Small Business,2024-10-20
+598,698,Not Converted,Email,Books,East,Small Business,2023-11-04
+599,699,Not Converted,Trade Show,Home Appliances,North,Wholesale,2023-02-08
+600,700,Converted,Referral,Clothing,Central,Wholesale,2024-08-14
+601,701,Converted,Referral,Books,Central,Enterprise,2024-01-26
+602,702,Not Converted,Website,Home Appliances,Central,Wholesale,2023-03-22
+603,703,Converted,Trade Show,Home Appliances,Central,Individual,2023-02-27
+604,704,Not Converted,Referral,Books,Central,Enterprise,2023-12-09
+605,705,Converted,Referral,Sporting Goods,South,Enterprise,2023-12-23
+606,706,Not Converted,Referral,Clothing,North,Individual,2024-03-21
+607,707,Not Converted,Social Media,Home Appliances,East,Individual,2024-03-03
+608,708,Not Converted,Trade Show,Books,South,Individual,2023-05-04
+609,709,Not Converted,Social Media,Home Appliances,South,Retail,2023-08-21
+610,710,Not Converted,Email,Books,South,Small Business,2024-10-31
+611,711,Not Converted,Social Media,Home Appliances,South,Small Business,2024-09-09
+612,712,Not Converted,Referral,Electronics,South,Enterprise,2023-01-12
+613,713,Not Converted,Social Media,Sporting Goods,North,Individual,2024-10-12
+614,714,Not Converted,Website,Clothing,East,Wholesale,2024-10-10
+615,715,Not Converted,Trade Show,Sporting Goods,North,Individual,2024-01-27
+616,716,Not Converted,Trade Show,Sporting Goods,East,Enterprise,2023-02-25
+617,717,Converted,Social Media,Clothing,South,Small Business,2023-11-09
+618,718,Converted,Trade Show,Sporting Goods,South,Retail,2024-06-21
+619,719,Converted,Website,Electronics,Central,Individual,2023-02-12
+620,720,Not Converted,Website,Books,West,Small Business,2023-11-23
+621,721,Converted,Social Media,Clothing,West,Enterprise,2024-07-07
+622,722,Converted,Referral,Books,North,Enterprise,2024-08-02
+623,723,Converted,Trade Show,Home Appliances,North,Small Business,2023-06-03
+624,724,Converted,Email,Electronics,East,Small Business,2023-12-01
+625,725,Not Converted,Website,Books,Central,Individual,2024-05-30
+626,726,Not Converted,Email,Books,East,Wholesale,2024-12-16
+627,727,Not Converted,Trade Show,Clothing,Central,Individual,2023-08-15
+628,728,Converted,Social Media,Home Appliances,West,Retail,2023-06-06
+629,729,Converted,Website,Clothing,West,Small Business,2023-02-21
+630,730,Not Converted,Email,Home Appliances,Central,Retail,2024-11-21
+631,731,Converted,Website,Clothing,East,Retail,2024-02-07
+632,732,Not Converted,Email,Books,North,Wholesale,2024-04-02
+633,733,Converted,Referral,Books,Central,Individual,2024-09-02
+634,734,Not Converted,Referral,Electronics,Central,Enterprise,2024-08-13
+635,735,Converted,Trade Show,Books,Central,Retail,2024-06-01
+636,736,Converted,Trade Show,Sporting Goods,East,Retail,2023-04-03
+637,737,Not Converted,Website,Books,North,Retail,2023-08-16
+638,738,Converted,Trade Show,Sporting Goods,East,Retail,2024-03-19
+639,739,Converted,Email,Books,South,Enterprise,2023-10-24
+640,740,Not Converted,Social Media,Sporting Goods,South,Individual,2024-02-08
+641,741,Converted,Referral,Sporting Goods,Central,Wholesale,2023-06-01
+642,742,Not Converted,Trade Show,Books,Central,Retail,2023-05-16
+643,743,Converted,Social Media,Sporting Goods,Central,Small Business,2023-12-11
+644,744,Converted,Trade Show,Electronics,North,Enterprise,2023-03-26
+645,745,Not Converted,Trade Show,Home Appliances,North,Wholesale,2024-05-03
+646,746,Not Converted,Email,Sporting Goods,Central,Small Business,2024-08-09
+647,747,Not Converted,Trade Show,Sporting Goods,North,Small Business,2023-02-20
+648,748,Not Converted,Referral,Electronics,West,Small Business,2024-07-16
+649,749,Not Converted,Social Media,Electronics,Central,Retail,2024-02-13
+650,750,Converted,Referral,Clothing,West,Individual,2023-09-26
+651,751,Converted,Referral,Home Appliances,East,Retail,2023-03-29
+652,752,Not Converted,Email,Clothing,West,Small Business,2024-02-13
+653,753,Not Converted,Website,Sporting Goods,East,Wholesale,2024-05-29
+654,754,Converted,Website,Electronics,East,Retail,2024-03-21
+655,755,Converted,Email,Sporting Goods,Central,Wholesale,2024-12-16
+656,756,Not Converted,Social Media,Books,Central,Retail,2023-05-14
+657,757,Not Converted,Trade Show,Home Appliances,East,Individual,2023-05-19
+658,758,Converted,Social Media,Books,North,Individual,2024-05-08
+659,759,Converted,Trade Show,Electronics,South,Retail,2024-07-27
+660,760,Converted,Website,Electronics,West,Retail,2023-07-22
+661,761,Converted,Referral,Electronics,East,Individual,2024-05-15
+662,762,Not Converted,Referral,Home Appliances,South,Wholesale,2024-02-09
+663,763,Converted,Social Media,Clothing,Central,Individual,2024-10-30
+664,764,Converted,Email,Sporting Goods,Central,Retail,2024-08-09
+665,765,Converted,Trade Show,Sporting Goods,East,Wholesale,2023-07-20
+666,766,Not Converted,Referral,Sporting Goods,North,Retail,2024-07-29
+667,767,Converted,Social Media,Sporting Goods,East,Enterprise,2024-09-23
+668,768,Not Converted,Email,Sporting Goods,West,Retail,2024-06-21
+669,769,Not Converted,Trade Show,Clothing,South,Individual,2023-09-10
+670,770,Not Converted,Email,Books,North,Small Business,2023-09-06
+671,771,Not Converted,Website,Home Appliances,East,Individual,2023-03-15
+672,772,Not Converted,Social Media,Books,West,Individual,2023-09-30
+673,773,Not Converted,Email,Books,West,Wholesale,2024-03-17
+674,774,Converted,Social Media,Sporting Goods,North,Enterprise,2023-11-28
+675,775,Converted,Website,Sporting Goods,West,Wholesale,2024-12-03
+676,776,Converted,Trade Show,Clothing,West,Retail,2024-08-13
+677,777,Converted,Referral,Home Appliances,West,Small Business,2023-04-02
+678,778,Not Converted,Website,Electronics,West,Individual,2023-04-26
+679,779,Converted,Trade Show,Books,East,Small Business,2024-11-19
+680,780,Converted,Trade Show,Electronics,North,Small Business,2024-02-28
+681,781,Converted,Referral,Home Appliances,South,Retail,2024-03-10
+682,782,Converted,Referral,Books,South,Retail,2024-01-10
+683,783,Converted,Email,Electronics,West,Small Business,2023-12-23
+684,784,Converted,Trade Show,Electronics,East,Individual,2023-07-15
+685,785,Converted,Referral,Clothing,West,Retail,2023-11-25
+686,786,Not Converted,Trade Show,Home Appliances,West,Individual,2023-12-19
+687,787,Not Converted,Email,Home Appliances,East,Retail,2024-09-01
+688,788,Not Converted,Website,Home Appliances,Central,Individual,2024-11-03
+689,789,Not Converted,Email,Books,North,Individual,2023-01-25
+690,790,Converted,Email,Clothing,South,Enterprise,2023-11-09
+691,791,Converted,Email,Sporting Goods,East,Retail,2023-06-23
+692,792,Not Converted,Social Media,Books,South,Enterprise,2023-12-25
+693,793,Not Converted,Website,Home Appliances,East,Small Business,2024-09-24
+694,794,Not Converted,Referral,Books,East,Individual,2024-03-29
+695,795,Converted,Trade Show,Electronics,Central,Individual,2024-10-01
+696,796,Converted,Trade Show,Books,West,Wholesale,2023-05-30
+697,797,Not Converted,Referral,Books,North,Retail,2024-03-28
+698,798,Converted,Social Media,Home Appliances,Central,Small Business,2023-02-15
+699,799,Not Converted,Trade Show,Electronics,South,Small Business,2023-08-28
+700,800,Converted,Email,Home Appliances,North,Retail,2023-07-24
+701,801,Converted,Trade Show,Electronics,West,Wholesale,2024-12-03
+702,802,Converted,Website,Electronics,Central,Wholesale,2024-01-18
+703,803,Not Converted,Website,Electronics,East,Retail,2023-06-09
+704,804,Converted,Referral,Home Appliances,South,Individual,2023-03-29
+705,805,Converted,Social Media,Electronics,Central,Individual,2023-04-26
+706,806,Converted,Social Media,Clothing,Central,Small Business,2023-02-25
+707,807,Converted,Trade Show,Clothing,North,Retail,2023-09-06
+708,808,Not Converted,Social Media,Sporting Goods,South,Individual,2024-09-28
+709,809,Not Converted,Social Media,Clothing,South,Wholesale,2023-06-01
+710,810,Not Converted,Trade Show,Sporting Goods,South,Retail,2023-10-22
+711,811,Converted,Website,Clothing,North,Small Business,2023-01-15
+712,812,Not Converted,Email,Home Appliances,South,Individual,2023-12-18
+713,813,Not Converted,Referral,Sporting Goods,North,Individual,2024-12-12
+714,814,Not Converted,Website,Books,East,Wholesale,2023-04-24
+715,815,Not Converted,Social Media,Books,North,Individual,2023-11-09
+716,816,Not Converted,Social Media,Clothing,West,Individual,2024-04-06
+717,817,Not Converted,Trade Show,Books,South,Wholesale,2024-04-28
+718,818,Converted,Referral,Clothing,West,Wholesale,2023-01-24
+719,819,Converted,Email,Clothing,West,Small Business,2023-12-06
+720,820,Not Converted,Trade Show,Books,East,Retail,2023-08-03
+721,821,Not Converted,Trade Show,Books,Central,Individual,2024-07-05
+722,822,Not Converted,Email,Electronics,East,Individual,2023-08-05
+723,823,Converted,Email,Sporting Goods,North,Wholesale,2023-07-28
+724,824,Converted,Social Media,Clothing,North,Small Business,2024-07-14
+725,825,Converted,Trade Show,Books,South,Individual,2024-06-20
+726,826,Converted,Website,Sporting Goods,West,Small Business,2023-09-22
+727,827,Not Converted,Website,Books,East,Enterprise,2024-07-16
+728,828,Converted,Trade Show,Books,Central,Wholesale,2024-05-10
+729,829,Converted,Email,Electronics,East,Individual,2024-09-30
+730,830,Not Converted,Trade Show,Clothing,South,Small Business,2023-05-25
+731,831,Not Converted,Email,Clothing,East,Retail,2024-12-13
+732,832,Not Converted,Email,Home Appliances,Central,Small Business,2024-12-17
+733,833,Converted,Referral,Electronics,Central,Small Business,2024-11-16
+734,834,Not Converted,Email,Sporting Goods,West,Enterprise,2023-01-19
+735,835,Not Converted,Referral,Electronics,West,Individual,2024-01-21
+736,836,Converted,Trade Show,Sporting Goods,South,Individual,2024-08-20
+737,837,Not Converted,Referral,Clothing,West,Wholesale,2024-11-11
+738,838,Not Converted,Website,Home Appliances,North,Small Business,2024-06-24
+739,839,Not Converted,Referral,Home Appliances,West,Retail,2023-02-14
+740,840,Not Converted,Email,Clothing,North,Enterprise,2023-09-19
+741,841,Not Converted,Trade Show,Books,East,Small Business,2023-06-24
+742,842,Converted,Referral,Electronics,North,Retail,2023-03-03
+743,843,Converted,Email,Home Appliances,South,Wholesale,2023-10-18
+744,844,Not Converted,Referral,Books,Central,Enterprise,2023-07-25
+745,845,Not Converted,Trade Show,Sporting Goods,South,Individual,2024-12-15
+746,846,Not Converted,Trade Show,Home Appliances,South,Individual,2024-09-25
+747,847,Not Converted,Website,Sporting Goods,South,Small Business,2023-10-05
+748,848,Not Converted,Trade Show,Books,South,Enterprise,2023-02-24
+749,849,Converted,Email,Sporting Goods,West,Retail,2024-04-22
+750,850,Not Converted,Trade Show,Books,East,Wholesale,2024-11-02
+751,851,Converted,Trade Show,Sporting Goods,Central,Wholesale,2023-01-09
+752,852,Not Converted,Email,Electronics,North,Individual,2023-03-10
+753,853,Not Converted,Email,Home Appliances,North,Individual,2024-02-02
+754,854,Not Converted,Trade Show,Home Appliances,East,Wholesale,2024-11-08
+755,855,Converted,Trade Show,Books,South,Individual,2023-10-05
+756,856,Not Converted,Referral,Sporting Goods,South,Wholesale,2024-11-10
+757,857,Converted,Trade Show,Clothing,Central,Small Business,2024-11-07
+758,858,Not Converted,Website,Home Appliances,North,Retail,2024-01-04
+759,859,Not Converted,Website,Sporting Goods,South,Enterprise,2023-04-21
+760,860,Converted,Website,Sporting Goods,West,Small Business,2023-01-20
+761,861,Converted,Website,Electronics,Central,Enterprise,2023-10-27
+762,862,Not Converted,Trade Show,Clothing,West,Wholesale,2024-10-27
+763,863,Not Converted,Referral,Home Appliances,West,Retail,2024-01-31
+764,864,Not Converted,Email,Electronics,East,Small Business,2023-08-25
+765,865,Converted,Trade Show,Clothing,East,Individual,2024-01-25
+766,866,Converted,Social Media,Home Appliances,West,Enterprise,2024-06-05
+767,867,Not Converted,Trade Show,Electronics,East,Enterprise,2024-12-28
+768,868,Converted,Website,Clothing,West,Individual,2023-04-12
+769,869,Not Converted,Social Media,Home Appliances,South,Small Business,2023-11-20
+770,870,Not Converted,Trade Show,Clothing,East,Individual,2024-05-12
+771,871,Not Converted,Referral,Sporting Goods,West,Enterprise,2024-09-04
+772,872,Converted,Referral,Books,Central,Individual,2024-06-29
+773,873,Converted,Social Media,Books,Central,Enterprise,2023-04-01
+774,874,Converted,Email,Sporting Goods,East,Small Business,2023-07-10
+775,875,Converted,Social Media,Clothing,Central,Retail,2023-07-23
+776,876,Not Converted,Referral,Sporting Goods,North,Small Business,2024-05-28
+777,877,Converted,Social Media,Books,North,Individual,2024-04-14
+778,878,Not Converted,Website,Books,Central,Individual,2024-07-29
+779,879,Converted,Website,Clothing,West,Small Business,2023-01-23
+780,880,Converted,Email,Books,Central,Retail,2023-02-10
+781,881,Converted,Social Media,Sporting Goods,Central,Enterprise,2023-09-11
+782,882,Not Converted,Social Media,Clothing,Central,Individual,2024-06-27
+783,883,Converted,Social Media,Sporting Goods,West,Individual,2023-11-09
+784,884,Converted,Trade Show,Clothing,West,Small Business,2023-12-08
+785,885,Not Converted,Email,Books,North,Enterprise,2024-05-17
+786,886,Not Converted,Referral,Home Appliances,East,Enterprise,2024-02-07
+787,887,Not Converted,Trade Show,Clothing,North,Individual,2023-06-10
+788,888,Not Converted,Trade Show,Clothing,West,Enterprise,2023-01-19
+789,889,Not Converted,Referral,Home Appliances,West,Small Business,2023-12-22
+790,890,Not Converted,Referral,Books,West,Retail,2024-12-02
+791,891,Converted,Referral,Sporting Goods,West,Wholesale,2023-12-27
+792,892,Not Converted,Social Media,Electronics,West,Retail,2023-12-30
+793,893,Converted,Email,Home Appliances,West,Small Business,2024-10-03
+794,894,Not Converted,Referral,Electronics,South,Retail,2023-11-06
+795,895,Converted,Trade Show,Books,South,Wholesale,2023-08-30
+796,896,Converted,Trade Show,Clothing,Central,Retail,2024-05-29
+797,897,Converted,Website,Clothing,South,Individual,2023-10-10
+798,898,Not Converted,Referral,Books,North,Small Business,2023-03-05
+799,899,Not Converted,Email,Sporting Goods,Central,Enterprise,2024-10-03
+800,900,Not Converted,Social Media,Sporting Goods,East,Individual,2023-09-21
+801,901,Not Converted,Website,Books,West,Individual,2024-02-01
+802,902,Converted,Referral,Books,South,Wholesale,2023-01-31
+803,903,Not Converted,Social Media,Books,North,Retail,2024-07-23
+804,904,Not Converted,Email,Books,East,Small Business,2023-10-14
+805,905,Not Converted,Email,Books,West,Wholesale,2023-08-19
+806,906,Converted,Website,Books,West,Wholesale,2023-06-05
+807,907,Not Converted,Website,Clothing,East,Retail,2023-12-16
+808,908,Not Converted,Referral,Electronics,East,Small Business,2024-02-07
+809,909,Not Converted,Social Media,Sporting Goods,East,Individual,2024-11-04
+810,910,Not Converted,Trade Show,Electronics,North,Small Business,2023-05-21
+811,911,Not Converted,Trade Show,Clothing,Central,Wholesale,2023-03-31
+812,912,Not Converted,Email,Home Appliances,Central,Wholesale,2024-01-27
+813,913,Not Converted,Email,Electronics,South,Enterprise,2024-06-18
+814,914,Converted,Referral,Home Appliances,West,Retail,2024-11-26
+815,915,Converted,Trade Show,Clothing,South,Enterprise,2024-09-20
+816,916,Not Converted,Referral,Sporting Goods,Central,Wholesale,2024-10-03
+817,917,Converted,Email,Home Appliances,East,Individual,2024-12-04
+818,918,Not Converted,Email,Clothing,West,Wholesale,2023-08-21
+819,919,Converted,Social Media,Books,Central,Small Business,2024-03-04
+820,920,Not Converted,Trade Show,Sporting Goods,West,Small Business,2023-09-04
+821,921,Not Converted,Social Media,Books,South,Individual,2024-08-10
+822,922,Not Converted,Social Media,Sporting Goods,Central,Individual,2023-06-06
+823,923,Not Converted,Referral,Sporting Goods,South,Enterprise,2024-03-13
+824,924,Converted,Social Media,Electronics,West,Individual,2023-11-16
+825,925,Not Converted,Website,Sporting Goods,North,Wholesale,2024-09-12
+826,926,Converted,Website,Electronics,East,Retail,2023-12-04
+827,927,Converted,Trade Show,Home Appliances,South,Small Business,2024-04-05
+828,928,Not Converted,Trade Show,Sporting Goods,West,Small Business,2024-07-10
+829,929,Converted,Social Media,Home Appliances,Central,Wholesale,2023-05-15
+830,930,Not Converted,Email,Sporting Goods,South,Retail,2023-07-31
+831,931,Converted,Email,Electronics,West,Individual,2024-10-31
+832,932,Not Converted,Trade Show,Books,North,Enterprise,2023-05-22
+833,933,Converted,Referral,Sporting Goods,South,Retail,2024-08-18
+834,934,Converted,Website,Clothing,West,Wholesale,2024-07-09
+835,935,Not Converted,Website,Books,South,Individual,2024-12-02
+836,936,Converted,Referral,Electronics,West,Individual,2023-07-27
+837,937,Converted,Social Media,Clothing,East,Individual,2023-05-22
+838,938,Not Converted,Trade Show,Home Appliances,West,Retail,2023-11-13
+839,939,Not Converted,Social Media,Electronics,West,Individual,2024-12-07
+840,940,Not Converted,Trade Show,Books,West,Retail,2024-12-24
+841,941,Not Converted,Trade Show,Home Appliances,Central,Wholesale,2024-06-21
+842,942,Converted,Website,Home Appliances,West,Enterprise,2023-05-19
+843,943,Not Converted,Website,Electronics,East,Retail,2024-03-17
+844,944,Not Converted,Social Media,Books,North,Wholesale,2023-05-29
+845,945,Not Converted,Email,Electronics,East,Retail,2024-11-03
+846,946,Not Converted,Trade Show,Clothing,North,Wholesale,2024-08-02
+847,947,Converted,Referral,Clothing,Central,Enterprise,2023-06-11
+848,948,Converted,Social Media,Sporting Goods,Central,Small Business,2023-11-22
+849,949,Converted,Referral,Home Appliances,Central,Enterprise,2023-03-11
+850,950,Not Converted,Website,Sporting Goods,North,Small Business,2024-07-25
+851,951,Converted,Social Media,Books,East,Small Business,2024-06-30
+852,952,Converted,Website,Clothing,South,Individual,2023-05-02
+853,953,Not Converted,Trade Show,Sporting Goods,Central,Retail,2023-07-08
+854,954,Converted,Trade Show,Clothing,North,Individual,2023-11-22
+855,955,Converted,Email,Clothing,East,Wholesale,2023-05-30
+856,956,Not Converted,Referral,Clothing,Central,Wholesale,2023-01-31
+857,957,Converted,Trade Show,Electronics,West,Wholesale,2023-11-23
+858,958,Not Converted,Referral,Sporting Goods,East,Individual,2024-02-28
+859,959,Converted,Trade Show,Home Appliances,North,Enterprise,2024-02-26
+860,960,Converted,Social Media,Sporting Goods,South,Individual,2023-11-07
+861,961,Not Converted,Trade Show,Home Appliances,South,Individual,2024-03-30
+862,962,Converted,Social Media,Sporting Goods,South,Enterprise,2024-10-15
+863,963,Not Converted,Trade Show,Sporting Goods,West,Enterprise,2023-10-08
+864,964,Not Converted,Referral,Clothing,East,Enterprise,2023-06-05
+865,965,Not Converted,Trade Show,Home Appliances,Central,Retail,2023-07-12
+866,966,Not Converted,Trade Show,Home Appliances,East,Individual,2023-04-20
+867,967,Converted,Website,Home Appliances,South,Retail,2023-05-15
+868,968,Converted,Email,Sporting Goods,West,Small Business,2023-07-09
+869,969,Not Converted,Website,Home Appliances,South,Small Business,2023-01-27
+870,970,Converted,Social Media,Sporting Goods,North,Individual,2024-09-19
+871,971,Converted,Referral,Electronics,East,Wholesale,2024-09-24
+872,972,Converted,Referral,Clothing,West,Enterprise,2023-10-01
+873,973,Converted,Trade Show,Books,South,Retail,2024-09-13
+874,974,Not Converted,Referral,Electronics,West,Small Business,2024-08-04
+875,975,Converted,Trade Show,Home Appliances,North,Individual,2024-09-20
+876,976,Not Converted,Trade Show,Clothing,North,Wholesale,2023-08-25
+877,977,Converted,Trade Show,Clothing,East,Individual,2024-09-03
+878,978,Converted,Trade Show,Clothing,West,Wholesale,2023-08-26
+879,979,Not Converted,Social Media,Clothing,South,Individual,2023-08-25
+880,980,Not Converted,Trade Show,Home Appliances,South,Enterprise,2024-12-05
+881,981,Not Converted,Website,Clothing,Central,Enterprise,2023-01-27
+882,982,Not Converted,Website,Books,South,Wholesale,2024-01-03
+883,983,Converted,Website,Books,East,Individual,2023-03-23
+884,984,Not Converted,Trade Show,Clothing,North,Enterprise,2024-12-06
+885,985,Not Converted,Referral,Sporting Goods,South,Individual,2024-05-04
+886,986,Converted,Social Media,Home Appliances,Central,Individual,2023-05-18
+887,987,Converted,Trade Show,Books,East,Enterprise,2024-05-30
+888,988,Not Converted,Social Media,Books,East,Small Business,2024-09-12
+889,989,Not Converted,Email,Books,East,Small Business,2024-04-26
+890,990,Not Converted,Trade Show,Electronics,East,Individual,2024-10-28
+891,991,Not Converted,Trade Show,Electronics,East,Small Business,2024-01-18
+892,992,Not Converted,Email,Books,East,Retail,2023-07-08
+893,993,Not Converted,Trade Show,Sporting Goods,North,Enterprise,2024-02-01
+894,994,Not Converted,Trade Show,Home Appliances,North,Small Business,2024-05-19
+895,995,Converted,Referral,Home Appliances,Central,Small Business,2024-05-01
+896,996,Not Converted,Email,Books,South,Individual,2023-05-21
+897,997,Not Converted,Social Media,Books,West,Wholesale,2023-06-17
+898,998,Converted,Trade Show,Home Appliances,North,Small Business,2023-07-17
+899,999,Converted,Referral,Sporting Goods,West,Wholesale,2023-08-20
+900,1000,Not Converted,Trade Show,Electronics,Central,Enterprise,2023-02-03
+901,1001,Not Converted,Referral,Electronics,South,Wholesale,2024-02-23
+902,1002,Not Converted,Trade Show,Books,North,Small Business,2023-01-16
+903,1003,Not Converted,Trade Show,Home Appliances,North,Retail,2023-10-04
+904,1004,Converted,Trade Show,Electronics,South,Retail,2024-02-27
+905,1005,Not Converted,Social Media,Sporting Goods,South,Enterprise,2023-08-16
+906,1006,Not Converted,Trade Show,Books,West,Small Business,2024-11-19
+907,1007,Converted,Referral,Clothing,West,Enterprise,2023-07-27
+908,1008,Converted,Social Media,Books,South,Individual,2023-07-29
+909,1009,Not Converted,Website,Clothing,North,Individual,2023-03-09
+910,1010,Not Converted,Referral,Books,East,Wholesale,2023-07-01
+911,1011,Converted,Referral,Home Appliances,Central,Enterprise,2024-03-26
+912,1012,Not Converted,Website,Home Appliances,Central,Retail,2024-09-24
+913,1013,Converted,Social Media,Home Appliances,West,Enterprise,2024-05-17
+914,1014,Converted,Trade Show,Home Appliances,South,Wholesale,2024-12-06
+915,1015,Not Converted,Referral,Sporting Goods,North,Small Business,2023-11-29
+916,1016,Converted,Website,Sporting Goods,North,Enterprise,2024-04-14
+917,1017,Converted,Trade Show,Clothing,West,Wholesale,2023-09-10
+918,1018,Converted,Social Media,Sporting Goods,West,Individual,2024-03-14
+919,1019,Not Converted,Referral,Books,East,Retail,2024-02-19
+920,1020,Not Converted,Trade Show,Home Appliances,Central,Small Business,2023-02-12
+921,1021,Converted,Trade Show,Electronics,Central,Enterprise,2024-09-15
+922,1022,Not Converted,Email,Electronics,Central,Enterprise,2024-01-25
+923,1023,Converted,Website,Electronics,West,Retail,2023-11-17
+924,1024,Converted,Trade Show,Books,East,Individual,2024-02-08
+925,1025,Not Converted,Social Media,Electronics,South,Enterprise,2024-09-19
+926,1026,Not Converted,Email,Electronics,West,Retail,2024-08-09
+927,1027,Not Converted,Trade Show,Clothing,East,Retail,2024-09-01
+928,1028,Converted,Trade Show,Books,West,Small Business,2024-07-04
+929,1029,Converted,Social Media,Books,South,Retail,2024-06-22
+930,1030,Converted,Email,Electronics,South,Retail,2024-10-19
+931,1031,Not Converted,Email,Books,East,Retail,2024-12-23
+932,1032,Not Converted,Website,Clothing,North,Enterprise,2023-02-09
+933,1033,Converted,Trade Show,Clothing,South,Retail,2024-06-18
+934,1034,Not Converted,Website,Home Appliances,South,Retail,2023-04-22
+935,1035,Not Converted,Trade Show,Clothing,South,Retail,2024-04-08
+936,1036,Not Converted,Website,Home Appliances,South,Retail,2024-04-13
+937,1037,Not Converted,Social Media,Electronics,North,Individual,2023-02-13
+938,1038,Converted,Referral,Home Appliances,Central,Enterprise,2023-09-09
+939,1039,Not Converted,Social Media,Home Appliances,Central,Retail,2024-06-16
+940,1040,Converted,Email,Electronics,South,Wholesale,2024-07-05
+941,1041,Converted,Social Media,Home Appliances,North,Wholesale,2024-02-10
+942,1042,Converted,Email,Clothing,West,Wholesale,2023-02-10
+943,1043,Not Converted,Trade Show,Electronics,North,Small Business,2024-07-26
+944,1044,Not Converted,Trade Show,Books,East,Individual,2024-02-01
+945,1045,Converted,Trade Show,Home Appliances,West,Wholesale,2024-06-13
+946,1046,Not Converted,Social Media,Clothing,Central,Individual,2024-10-08
+947,1047,Converted,Website,Books,Central,Wholesale,2023-02-20
+948,1048,Not Converted,Email,Electronics,North,Small Business,2023-07-14
+949,1049,Converted,Trade Show,Electronics,Central,Enterprise,2023-10-26
+950,1050,Not Converted,Email,Electronics,North,Individual,2024-03-27
+951,1051,Not Converted,Trade Show,Clothing,North,Enterprise,2024-02-12
+952,1052,Not Converted,Referral,Books,North,Small Business,2023-11-08
+953,1053,Not Converted,Social Media,Electronics,North,Individual,2023-10-20
+954,1054,Not Converted,Trade Show,Clothing,North,Enterprise,2024-04-18
+955,1055,Converted,Social Media,Sporting Goods,East,Small Business,2023-06-20
+956,1056,Converted,Referral,Clothing,East,Retail,2024-03-09
+957,1057,Not Converted,Email,Sporting Goods,East,Individual,2023-10-29
+958,1058,Converted,Social Media,Books,North,Enterprise,2024-09-20
+959,1059,Not Converted,Trade Show,Electronics,Central,Small Business,2023-02-25
+960,1060,Converted,Referral,Electronics,West,Retail,2024-12-08
+961,1061,Converted,Trade Show,Home Appliances,East,Individual,2024-06-14
+962,1062,Not Converted,Referral,Electronics,South,Retail,2023-05-26
+963,1063,Not Converted,Referral,Books,South,Wholesale,2024-04-20
+964,1064,Not Converted,Trade Show,Clothing,North,Individual,2024-10-24
+965,1065,Converted,Social Media,Books,West,Small Business,2024-04-08
+966,1066,Converted,Email,Electronics,East,Small Business,2023-04-03
+967,1067,Converted,Email,Clothing,North,Individual,2024-05-28
+968,1068,Converted,Referral,Books,Central,Wholesale,2023-04-26
+969,1069,Not Converted,Trade Show,Electronics,West,Individual,2023-07-04
+970,1070,Not Converted,Referral,Electronics,Central,Enterprise,2024-08-23
+971,1071,Converted,Email,Electronics,Central,Small Business,2024-12-14
+972,1072,Converted,Referral,Home Appliances,South,Retail,2024-07-14
+973,1073,Converted,Trade Show,Home Appliances,East,Small Business,2023-05-19
+974,1074,Converted,Email,Home Appliances,North,Wholesale,2024-02-07
+975,1075,Not Converted,Social Media,Clothing,Central,Individual,2024-02-28
+976,1076,Not Converted,Referral,Books,Central,Small Business,2023-11-28
+977,1077,Not Converted,Social Media,Clothing,North,Enterprise,2024-04-07
+978,1078,Not Converted,Referral,Clothing,West,Wholesale,2023-01-26
+979,1079,Converted,Trade Show,Electronics,North,Wholesale,2023-07-03
+980,1080,Not Converted,Referral,Sporting Goods,North,Retail,2024-04-10
+981,1081,Converted,Referral,Sporting Goods,East,Small Business,2024-08-28
+982,1082,Not Converted,Website,Electronics,South,Individual,2023-07-26
+983,1083,Not Converted,Trade Show,Sporting Goods,Central,Wholesale,2024-04-11
+984,1084,Not Converted,Trade Show,Clothing,South,Enterprise,2023-04-03
+985,1085,Converted,Trade Show,Books,West,Enterprise,2023-09-14
+986,1086,Not Converted,Social Media,Home Appliances,Central,Individual,2023-11-28
+987,1087,Converted,Referral,Clothing,South,Enterprise,2024-12-10
+988,1088,Not Converted,Email,Clothing,West,Retail,2024-10-27
+989,1089,Not Converted,Referral,Books,East,Individual,2024-12-30
+990,1090,Converted,Website,Sporting Goods,West,Enterprise,2023-06-17
+991,1091,Not Converted,Referral,Books,South,Retail,2023-05-07
+992,1092,Converted,Website,Clothing,North,Enterprise,2023-04-04
+993,1093,Not Converted,Referral,Electronics,Central,Small Business,2023-04-27
+994,1094,Not Converted,Social Media,Electronics,East,Individual,2024-12-25
+995,1095,Converted,Referral,Clothing,South,Enterprise,2024-04-06
+996,1096,Not Converted,Social Media,Electronics,East,Enterprise,2024-10-12
+997,1097,Not Converted,Email,Sporting Goods,West,Retail,2024-01-07
+998,1098,Converted,Email,Books,South,Small Business,2023-03-29
+999,1099,Converted,Trade Show,Home Appliances,North,Small Business,2024-06-21
+1000,1100,Not Converted,Referral,Books,North,Retail,2024-12-26

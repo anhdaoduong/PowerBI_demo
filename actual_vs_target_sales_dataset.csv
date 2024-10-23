@@ -1,0 +1,731 @@
+Sale Date,Product Name,Sales Amount,Sales Target,Region,Salesman,Sales Team,Customer Segment
+2023-01-01,Routers,11962.08,15035.8,South,Alex,Team Ninjas,Education
+2023-01-02,Printers,7559.78,6458.58,North,Alex,Team Ninjas,Enterprise
+2023-01-03,Laptops,-6941.61,-6164.43,North,Jordan,Team Hunters,Education
+2023-01-04,Desktop Computers,11388.47,16636.95,North,Taylor,Team Stars,Enterprise
+2023-01-05,Laptops,11788.56,12178.41,East,Jordan,Team Hunters,Enterprise
+2023-01-06,Tablets,15408.73,13256.93,East,Alex,Team Ninjas,Education
+2023-01-07,Laptops,9572.09,10822.66,West,Alex,Team Ninjas,Enterprise
+2023-01-08,Printers,4702.69,4735.75,East,Taylor,Team Stars,Small Business
+2023-01-09,Routers,7296.39,6493.59,North,Jordan,Team Hunters,Government
+2023-01-10,Tablets,10941.19,11285.09,East,Taylor,Team Stars,Small Business
+2023-01-11,Printers,-4917.68,-4433.15,West,Jordan,Team Hunters,Government
+2023-01-12,Printers,6711.35,7316.03,South,Taylor,Team Stars,Non-Profit
+2023-01-13,Desktop Computers,12777.64,15350.91,North,Taylor,Team Stars,Individual
+2023-01-14,Printers,-6039.5,-5969.32,East,Jordan,Team Hunters,Startup
+2023-01-15,Routers,7118.09,7002.25,North,Jordan,Team Hunters,Startup
+2023-01-16,Desktop Computers,4876.19,4352.2,South,Jordan,Team Hunters,Startup
+2023-01-17,Routers,4034.95,4102.07,South,Jordan,Team Hunters,Corporate
+2023-01-18,Desktop Computers,2357.21,2359.21,South,Jordan,Team Hunters,Startup
+2023-01-19,Tablets,10570.9,11016.71,East,Jordan,Team Hunters,Small Business
+2023-01-20,Routers,11542.95,18108.94,South,Taylor,Team Stars,Small Business
+2023-01-21,Tablets,11211.56,18410.7,South,Taylor,Team Stars,Education
+2023-01-22,Tablets,14463.8,14428.64,South,Alex,Team Ninjas,Non-Profit
+2023-01-23,Printers,10288.79,9069.6,West,Taylor,Team Stars,Enterprise
+2023-01-24,Desktop Computers,11490.84,11986.98,North,Alex,Team Ninjas,Corporate
+2023-01-25,Laptops,19021.85,20805.26,South,Taylor,Team Stars,Non-Profit
+2023-01-26,Laptops,2562.59,2650.27,North,Alex,Team Ninjas,Individual
+2023-01-27,Desktop Computers,14731.19,12673.28,West,Jordan,Team Hunters,Government
+2023-01-28,Laptops,13750.83,14924.98,North,Taylor,Team Stars,Education
+2023-01-29,Desktop Computers,7594.65,8048.22,North,Taylor,Team Stars,Government
+2023-01-30,Routers,9643.41,9411.94,South,Jordan,Team Hunters,Government
+2023-01-31,Desktop Computers,5999.41,5139.09,North,Alex,Team Ninjas,Individual
+2023-02-01,Laptops,8558.8,8813.7,West,Alex,Team Ninjas,Government
+2023-02-02,Laptops,8200.59,9463.09,North,Jordan,Team Hunters,Corporate
+2023-02-03,Routers,-1089.74,-1028.83,North,Alex,Team Ninjas,Government
+2023-02-04,Desktop Computers,5331.12,4770.18,West,Jordan,Team Hunters,Corporate
+2023-02-05,Desktop Computers,8165.11,7684.12,South,Taylor,Team Stars,Startup
+2023-02-06,Tablets,14401.2,14071.13,South,Taylor,Team Stars,Non-Profit
+2023-02-07,Tablets,11438.24,15359.86,South,Alex,Team Ninjas,Small Business
+2023-02-08,Printers,-8267.75,-7577.32,North,Alex,Team Ninjas,Individual
+2023-02-09,Printers,4295.27,4374.53,South,Jordan,Team Hunters,Non-Profit
+2023-02-10,Printers,4178.34,4126.2,South,Alex,Team Ninjas,Individual
+2023-02-11,Desktop Computers,5015.68,5409.07,East,Alex,Team Ninjas,Education
+2023-02-12,Laptops,13198.63,12654.04,South,Taylor,Team Stars,Individual
+2023-02-13,Desktop Computers,4704.61,4673.08,West,Taylor,Team Stars,Corporate
+2023-02-14,Routers,21310.49,21265.74,North,Jordan,Team Hunters,Education
+2023-02-15,Laptops,5523.8,5477.84,South,Jordan,Team Hunters,Corporate
+2023-02-16,Laptops,7863.18,7580.08,East,Jordan,Team Hunters,Individual
+2023-02-17,Desktop Computers,7902.37,7599.08,South,Alex,Team Ninjas,Education
+2023-02-18,Laptops,12516.57,12207.46,West,Alex,Team Ninjas,Small Business
+2023-02-19,Desktop Computers,10261.31,11234.83,North,Alex,Team Ninjas,Small Business
+2023-02-20,Routers,7703.49,7630.25,West,Alex,Team Ninjas,Enterprise
+2023-02-21,Routers,2873.58,2971.31,East,Jordan,Team Hunters,Individual
+2023-02-22,Desktop Computers,20981.65,22673.16,South,Jordan,Team Hunters,Startup
+2023-02-23,Printers,9422.42,10406.04,West,Jordan,Team Hunters,Individual
+2023-02-24,Laptops,12514.84,12877.68,East,Alex,Team Ninjas,Education
+2023-02-25,Desktop Computers,2965.43,3291.33,East,Jordan,Team Hunters,Individual
+2023-02-26,Laptops,-5969.03,-6416.16,North,Jordan,Team Hunters,Small Business
+2023-02-27,Tablets,13088.26,13127.34,South,Taylor,Team Stars,Enterprise
+2023-02-28,Laptops,8742.75,9471.34,North,Taylor,Team Stars,Startup
+2023-03-01,Desktop Computers,8643.45,8253.65,East,Taylor,Team Stars,Startup
+2023-03-02,Printers,4974.28,4736.19,North,Alex,Team Ninjas,Education
+2023-03-03,Routers,10337.81,10273.6,East,Taylor,Team Stars,Government
+2023-03-04,Laptops,-5119.94,-5339.42,West,Alex,Team Ninjas,Non-Profit
+2023-03-05,Laptops,6731.42,6875.84,East,Taylor,Team Stars,Corporate
+2023-03-06,Desktop Computers,9819.03,9966.13,South,Taylor,Team Stars,Government
+2023-03-07,Desktop Computers,-105.75,-106.47,North,Taylor,Team Stars,Education
+2023-03-08,Routers,4192.1,4155.32,North,Jordan,Team Hunters,Small Business
+2023-03-09,Desktop Computers,12888.95,11574.24,North,Taylor,Team Stars,Individual
+2023-03-10,Laptops,5626.09,5794.84,South,Taylor,Team Stars,Corporate
+2023-03-11,Tablets,14643.85,16584.93,South,Taylor,Team Stars,Small Business
+2023-03-12,Laptops,9987.67,20270.74,West,Taylor,Team Stars,Small Business
+2023-03-13,Laptops,4946.09,4986.32,South,Jordan,Team Hunters,Education
+2023-03-14,Printers,7293.01,6887.23,South,Taylor,Team Stars,Enterprise
+2023-03-15,Laptops,3742.54,3647.95,West,Alex,Team Ninjas,Non-Profit
+2023-03-16,Desktop Computers,662.24,779.86,South,Taylor,Team Stars,Corporate
+2023-03-17,Laptops,7757.37,7317.6,West,Taylor,Team Stars,Small Business
+2023-03-18,Tablets,-938.69,-942.14,North,Alex,Team Ninjas,Corporate
+2023-03-19,Routers,-4575.77,-4018.72,South,Alex,Team Ninjas,Education
+2023-03-20,Desktop Computers,8857.27,9598.47,East,Alex,Team Ninjas,Non-Profit
+2023-03-21,Desktop Computers,11857.81,12370.08,East,Jordan,Team Hunters,Corporate
+2023-03-22,Printers,6675.49,6760.46,North,Taylor,Team Stars,Corporate
+2023-03-23,Printers,-4997.2,-4572.72,East,Alex,Team Ninjas,Non-Profit
+2023-03-24,Routers,-2102.21,-1857.96,North,Alex,Team Ninjas,Education
+2023-03-25,Desktop Computers,10762.42,10682.15,North,Taylor,Team Stars,Corporate
+2023-03-26,Printers,12991.76,11212.9,East,Alex,Team Ninjas,Small Business
+2023-03-27,Printers,11736.59,11015.3,North,Taylor,Team Stars,Startup
+2023-03-28,Desktop Computers,6424.47,6502.06,North,Alex,Team Ninjas,Government
+2023-03-29,Routers,2288.72,2414.02,South,Taylor,Team Stars,Individual
+2023-03-30,Printers,-4723.98,-4470.72,East,Taylor,Team Stars,Government
+2023-03-31,Routers,14550.78,15339.65,East,Jordan,Team Hunters,Small Business
+2023-04-01,Routers,5138.71,5108.47,West,Taylor,Team Stars,Government
+2023-04-02,Laptops,10565.66,11629.73,North,Taylor,Team Stars,Non-Profit
+2023-04-03,Tablets,6573.79,6628.09,North,Jordan,Team Hunters,Startup
+2023-04-04,Routers,10881.43,11403.98,East,Jordan,Team Hunters,Startup
+2023-04-05,Printers,11289.3,12270.68,West,Jordan,Team Hunters,Education
+2023-04-06,Laptops,8444.86,9156.65,East,Alex,Team Ninjas,Enterprise
+2023-04-07,Desktop Computers,5133.36,8329.44,West,Jordan,Team Hunters,Small Business
+2023-04-08,Tablets,-1045.96,-1214.59,South,Alex,Team Ninjas,Startup
+2023-04-09,Desktop Computers,16434.82,15831.96,South,Alex,Team Ninjas,Startup
+2023-04-10,Laptops,14548.42,15957.3,West,Jordan,Team Hunters,Individual
+2023-04-11,Desktop Computers,-5596.32,-4998.37,West,Taylor,Team Stars,Government
+2023-04-12,Printers,9536.99,15907.76,South,Jordan,Team Hunters,Enterprise
+2023-04-13,Laptops,3689.52,3119.29,East,Jordan,Team Hunters,Corporate
+2023-04-14,Printers,13529.93,14125.74,West,Taylor,Team Stars,Education
+2023-04-15,Laptops,-2277.74,-2567.92,South,Jordan,Team Hunters,Government
+2023-04-16,Laptops,8807.88,11078.59,North,Alex,Team Ninjas,Corporate
+2023-04-17,Tablets,1721.07,1874.95,West,Alex,Team Ninjas,Startup
+2023-04-18,Routers,4777.41,4843.59,East,Taylor,Team Stars,Individual
+2023-04-19,Tablets,8507.54,9144.53,East,Alex,Team Ninjas,Education
+2023-04-20,Printers,-519,-547.45,West,Jordan,Team Hunters,Startup
+2023-04-21,Routers,9501.51,8850.21,South,Jordan,Team Hunters,Individual
+2023-04-22,Routers,4710.26,4396.31,South,Alex,Team Ninjas,Non-Profit
+2023-04-23,Routers,10665.95,11178.36,West,Jordan,Team Hunters,Enterprise
+2023-04-24,Routers,9718.87,9527.12,North,Jordan,Team Hunters,Corporate
+2023-04-25,Tablets,-1035.2,-1057.07,North,Jordan,Team Hunters,Government
+2023-04-26,Laptops,7639.89,7534.96,South,Alex,Team Ninjas,Enterprise
+2023-04-27,Desktop Computers,-1200.16,-1307.49,East,Alex,Team Ninjas,Small Business
+2023-04-28,Routers,5506.97,5617.36,North,Taylor,Team Stars,Enterprise
+2023-04-29,Desktop Computers,7249.05,12910.95,East,Jordan,Team Hunters,Enterprise
+2023-04-30,Laptops,7127.54,7008.48,South,Alex,Team Ninjas,Individual
+2023-05-01,Printers,2095.07,2163.33,North,Alex,Team Ninjas,Startup
+2023-05-02,Tablets,9741.91,17197.08,West,Jordan,Team Hunters,Education
+2023-05-03,Tablets,35.36,31.33,West,Jordan,Team Hunters,Small Business
+2023-05-04,Routers,3653.57,3183.69,South,Alex,Team Ninjas,Startup
+2023-05-05,Routers,7075.3,6737.4,West,Jordan,Team Hunters,Startup
+2023-05-06,Laptops,1566.39,1411.74,West,Taylor,Team Stars,Non-Profit
+2023-05-07,Routers,9930.39,15154.34,North,Alex,Team Ninjas,Startup
+2023-05-08,Printers,2618.97,2767.12,South,Jordan,Team Hunters,Corporate
+2023-05-09,Printers,4372.83,4547.19,South,Taylor,Team Stars,Individual
+2023-05-10,Desktop Computers,11656.49,11882.58,South,Jordan,Team Hunters,Government
+2023-05-11,Printers,17821.18,20232.19,North,Taylor,Team Stars,Startup
+2023-05-12,Laptops,15627.31,13667.5,East,Taylor,Team Stars,Education
+2023-05-13,Desktop Computers,4441.72,4391.32,South,Alex,Team Ninjas,Corporate
+2023-05-14,Desktop Computers,11596.22,12983.19,South,Jordan,Team Hunters,Government
+2023-05-15,Printers,14687.83,12860.04,East,Jordan,Team Hunters,Non-Profit
+2023-05-16,Routers,13910.23,14507.7,North,Jordan,Team Hunters,Small Business
+2023-05-17,Printers,1292.56,1288.14,North,Taylor,Team Stars,Small Business
+2023-05-18,Laptops,-9009.44,-9144.1,East,Jordan,Team Hunters,Education
+2023-05-19,Tablets,-2319.18,-2102.17,North,Jordan,Team Hunters,Individual
+2023-05-20,Tablets,7333.45,7833.47,West,Jordan,Team Hunters,Enterprise
+2023-05-21,Tablets,10659.52,10751.54,West,Taylor,Team Stars,Corporate
+2023-05-22,Printers,11437.51,10246.86,West,Alex,Team Ninjas,Enterprise
+2023-05-23,Desktop Computers,11425.25,11439.82,South,Jordan,Team Hunters,Individual
+2023-05-24,Routers,12488.21,12179.67,South,Taylor,Team Stars,Education
+2023-05-25,Tablets,-639.8,-573.18,West,Jordan,Team Hunters,Individual
+2023-05-26,Tablets,13241.55,13759.8,East,Alex,Team Ninjas,Startup
+2023-05-27,Tablets,-4004.11,-3998.06,South,Taylor,Team Stars,Small Business
+2023-05-28,Printers,-3722.59,-3968.74,South,Jordan,Team Hunters,Individual
+2023-05-29,Desktop Computers,5463.64,5257.66,North,Taylor,Team Stars,Corporate
+2023-05-30,Routers,7044.84,5704.4,South,Jordan,Team Hunters,Non-Profit
+2023-05-31,Tablets,5376.98,5196.37,South,Jordan,Team Hunters,Non-Profit
+2023-06-01,Desktop Computers,1197.15,1297.91,East,Jordan,Team Hunters,Education
+2023-06-02,Printers,-2227.8,-2209.19,East,Taylor,Team Stars,Individual
+2023-06-03,Tablets,10538.15,9429.34,West,Taylor,Team Stars,Education
+2023-06-04,Printers,15290.49,15730.99,South,Taylor,Team Stars,Small Business
+2023-06-05,Tablets,-5069.93,-5252.59,South,Taylor,Team Stars,Non-Profit
+2023-06-06,Tablets,-2696.15,-2539.36,North,Alex,Team Ninjas,Corporate
+2023-06-07,Printers,11595.6,10986.05,South,Taylor,Team Stars,Corporate
+2023-06-08,Routers,5175.74,4953.44,North,Alex,Team Ninjas,Small Business
+2023-06-09,Tablets,9900.74,10237.09,South,Jordan,Team Hunters,Small Business
+2023-06-10,Tablets,4452.8,4257.54,West,Alex,Team Ninjas,Education
+2023-06-11,Printers,373.69,396.56,South,Taylor,Team Stars,Non-Profit
+2023-06-12,Laptops,11946.25,10368.33,South,Taylor,Team Stars,Small Business
+2023-06-13,Laptops,14613.14,15380.21,North,Taylor,Team Stars,Corporate
+2023-06-14,Tablets,-4303.03,-3823.48,East,Jordan,Team Hunters,Education
+2023-06-15,Tablets,5444.86,5720.69,West,Taylor,Team Stars,Government
+2023-06-16,Laptops,23814.15,24730.88,North,Jordan,Team Hunters,Education
+2023-06-17,Routers,6207.36,6088.46,West,Alex,Team Ninjas,Non-Profit
+2023-06-18,Laptops,9350.24,8932.67,South,Jordan,Team Hunters,Small Business
+2023-06-19,Laptops,4373.37,3949.06,North,Taylor,Team Stars,Enterprise
+2023-06-20,Tablets,8194.18,8545.25,East,Alex,Team Ninjas,Corporate
+2023-06-21,Tablets,3094.46,2903.03,South,Taylor,Team Stars,Education
+2023-06-22,Routers,14274.71,14591.57,East,Taylor,Team Stars,Non-Profit
+2023-06-23,Routers,7919.09,7492.11,East,Jordan,Team Hunters,Startup
+2023-06-24,Printers,4925.54,5131.29,South,Jordan,Team Hunters,Non-Profit
+2023-06-25,Printers,-2328.28,-2343.73,West,Alex,Team Ninjas,Corporate
+2023-06-26,Routers,7360.14,7365.34,East,Jordan,Team Hunters,Government
+2023-06-27,Laptops,-5017.15,-4603.48,West,Jordan,Team Hunters,Corporate
+2023-06-28,Tablets,3358.77,3450.58,West,Jordan,Team Hunters,Individual
+2023-06-29,Laptops,-2111.19,-1851.38,North,Taylor,Team Stars,Individual
+2023-06-30,Tablets,10339.64,10665.22,East,Taylor,Team Stars,Corporate
+2023-07-01,Routers,8267.88,7057.68,East,Jordan,Team Hunters,Small Business
+2023-07-02,Tablets,-6502.01,-6162.55,North,Taylor,Team Stars,Non-Profit
+2023-07-03,Desktop Computers,-1148.58,-1075.01,West,Jordan,Team Hunters,Corporate
+2023-07-04,Routers,13547.62,12798.51,North,Jordan,Team Hunters,Corporate
+2023-07-05,Tablets,11400.04,12110.68,North,Taylor,Team Stars,Enterprise
+2023-07-06,Printers,13420.03,12670.74,South,Jordan,Team Hunters,Individual
+2023-07-07,Printers,5813.5,5873.14,East,Alex,Team Ninjas,Startup
+2023-07-08,Laptops,5246.92,4985.64,North,Alex,Team Ninjas,Small Business
+2023-07-09,Laptops,14359.36,15152.15,East,Jordan,Team Hunters,Corporate
+2023-07-10,Laptops,12024.27,12900.34,South,Alex,Team Ninjas,Non-Profit
+2023-07-11,Tablets,7539.56,6814.3,South,Taylor,Team Stars,Non-Profit
+2023-07-12,Routers,6797.54,11908.3,East,Alex,Team Ninjas,Education
+2023-07-13,Desktop Computers,244.78,265.14,South,Taylor,Team Stars,Individual
+2023-07-14,Tablets,7453.89,7906.48,West,Alex,Team Ninjas,Government
+2023-07-15,Printers,12047.4,10639.37,South,Jordan,Team Hunters,Individual
+2023-07-16,Laptops,4722.52,4381.35,West,Taylor,Team Stars,Government
+2023-07-17,Tablets,11051.74,11540.04,North,Taylor,Team Stars,Small Business
+2023-07-18,Laptops,9045.56,12044.95,South,Taylor,Team Stars,Startup
+2023-07-19,Desktop Computers,7723.88,7439.3,North,Alex,Team Ninjas,Corporate
+2023-07-20,Tablets,18607.43,19350.77,West,Jordan,Team Hunters,Startup
+2023-07-21,Tablets,8077.31,9217.89,East,Alex,Team Ninjas,Government
+2023-07-22,Printers,14821.29,14382.12,South,Taylor,Team Stars,Corporate
+2023-07-23,Routers,9327.55,9620.79,West,Alex,Team Ninjas,Corporate
+2023-07-24,Routers,14562.71,15477.55,South,Jordan,Team Hunters,Corporate
+2023-07-25,Laptops,13124.83,13480.48,North,Jordan,Team Hunters,Corporate
+2023-07-26,Tablets,-7836.77,-7371.56,North,Jordan,Team Hunters,Enterprise
+2023-07-27,Desktop Computers,7451.83,14813.57,North,Alex,Team Ninjas,Individual
+2023-07-28,Desktop Computers,7694.18,7736.89,East,Alex,Team Ninjas,Individual
+2023-07-29,Routers,6845.01,7383.51,West,Jordan,Team Hunters,Enterprise
+2023-07-30,Routers,15533.51,22084.54,West,Jordan,Team Hunters,Government
+2023-07-31,Tablets,10274.99,9502.43,South,Alex,Team Ninjas,Non-Profit
+2023-08-01,Desktop Computers,12662.05,10869.56,West,Jordan,Team Hunters,Startup
+2023-08-02,Printers,15987.44,18159.12,West,Taylor,Team Stars,Individual
+2023-08-03,Routers,7246.55,8218.38,North,Alex,Team Ninjas,Non-Profit
+2023-08-04,Routers,-1775.81,-1687.87,North,Taylor,Team Stars,Individual
+2023-08-05,Desktop Computers,2020.56,2055.88,East,Jordan,Team Hunters,Small Business
+2023-08-06,Tablets,-26.88,-25.74,West,Jordan,Team Hunters,Corporate
+2023-08-07,Desktop Computers,-2591.32,-2601.19,West,Jordan,Team Hunters,Government
+2023-08-08,Routers,13461.37,15616.49,East,Alex,Team Ninjas,Small Business
+2023-08-09,Desktop Computers,-7656.07,-6343.45,North,Alex,Team Ninjas,Individual
+2023-08-10,Laptops,706.02,799.85,East,Taylor,Team Stars,Enterprise
+2023-08-11,Routers,4837.97,5448.42,North,Taylor,Team Stars,Enterprise
+2023-08-12,Desktop Computers,5195.35,4950.47,East,Alex,Team Ninjas,Enterprise
+2023-08-13,Desktop Computers,-939.75,-926.97,East,Jordan,Team Hunters,Small Business
+2023-08-14,Desktop Computers,4818.45,4918.26,South,Alex,Team Ninjas,Small Business
+2023-08-15,Routers,7464.19,7662.4,East,Taylor,Team Stars,Individual
+2023-08-16,Desktop Computers,1911.63,1946,North,Alex,Team Ninjas,Education
+2023-08-17,Laptops,17764.52,15162.87,West,Alex,Team Ninjas,Enterprise
+2023-08-18,Desktop Computers,-3905.36,-3955.56,South,Jordan,Team Hunters,Small Business
+2023-08-19,Desktop Computers,13643.83,15765.95,North,Taylor,Team Stars,Individual
+2023-08-20,Laptops,2405.42,2390.58,North,Jordan,Team Hunters,Enterprise
+2023-08-21,Printers,8052.93,7957.63,South,Taylor,Team Stars,Enterprise
+2023-08-22,Tablets,7600.51,7486.63,West,Taylor,Team Stars,Government
+2023-08-23,Routers,2457.81,2489.56,West,Jordan,Team Hunters,Education
+2023-08-24,Printers,8215.82,8110.89,East,Alex,Team Ninjas,Enterprise
+2023-08-25,Tablets,8074.08,7316.01,North,Taylor,Team Stars,Education
+2023-08-26,Tablets,17643.86,14978.59,South,Taylor,Team Stars,Startup
+2023-08-27,Laptops,8097.61,8771.62,North,Alex,Team Ninjas,Education
+2023-08-28,Desktop Computers,10175.71,10072.29,North,Taylor,Team Stars,Small Business
+2023-08-29,Printers,17992.38,16432.71,West,Alex,Team Ninjas,Government
+2023-08-30,Routers,11788.98,12083.26,West,Taylor,Team Stars,Education
+2023-08-31,Routers,23019.77,25647.65,North,Jordan,Team Hunters,Small Business
+2023-09-01,Printers,2985.76,2938.76,South,Alex,Team Ninjas,Non-Profit
+2023-09-02,Desktop Computers,-3557.61,-3760.44,East,Alex,Team Ninjas,Enterprise
+2023-09-03,Laptops,5026.59,5529.7,South,Jordan,Team Hunters,Small Business
+2023-09-04,Routers,6048.58,10379.26,South,Jordan,Team Hunters,Corporate
+2023-09-05,Tablets,13580.9,13698.01,East,Jordan,Team Hunters,Small Business
+2023-09-06,Laptops,2085.59,2351.69,South,Alex,Team Ninjas,Education
+2023-09-07,Printers,-444.98,-499.25,North,Taylor,Team Stars,Enterprise
+2023-09-08,Laptops,3437.27,2911.14,South,Taylor,Team Stars,Individual
+2023-09-09,Tablets,13737.79,13301.22,East,Jordan,Team Hunters,Individual
+2023-09-10,Desktop Computers,9122.63,9711.94,East,Taylor,Team Stars,Government
+2023-09-11,Printers,4415.64,4435.23,East,Taylor,Team Stars,Government
+2023-09-12,Laptops,4852.94,4990.16,West,Alex,Team Ninjas,Startup
+2023-09-13,Routers,4390.47,3944.7,South,Taylor,Team Stars,Education
+2023-09-14,Printers,-4863.47,-4982.1,East,Taylor,Team Stars,Individual
+2023-09-15,Printers,15710.9,17946.04,East,Jordan,Team Hunters,Enterprise
+2023-09-16,Tablets,17011.24,18414.87,North,Jordan,Team Hunters,Startup
+2023-09-17,Tablets,14506.55,14055.65,North,Alex,Team Ninjas,Non-Profit
+2023-09-18,Routers,6430.65,6379.82,East,Jordan,Team Hunters,Individual
+2023-09-19,Routers,7576.28,8610.17,East,Alex,Team Ninjas,Corporate
+2023-09-20,Tablets,-1178.64,-1156.39,East,Alex,Team Ninjas,Startup
+2023-09-21,Tablets,11111.59,10817.16,South,Jordan,Team Hunters,Non-Profit
+2023-09-22,Laptops,-1675.23,-1624.58,East,Jordan,Team Hunters,Startup
+2023-09-23,Routers,9299.85,9165.13,North,Jordan,Team Hunters,Corporate
+2023-09-24,Printers,5205.97,4980.97,North,Alex,Team Ninjas,Corporate
+2023-09-25,Tablets,8961.58,9479.29,West,Jordan,Team Hunters,Individual
+2023-09-26,Desktop Computers,12887.3,12189.6,North,Alex,Team Ninjas,Individual
+2023-09-27,Routers,7540.93,8601.18,East,Taylor,Team Stars,Enterprise
+2023-09-28,Laptops,-2739.08,-3057.49,North,Jordan,Team Hunters,Corporate
+2023-09-29,Laptops,12530.36,11950.65,South,Alex,Team Ninjas,Education
+2023-09-30,Desktop Computers,6091.52,6390.04,South,Alex,Team Ninjas,Education
+2023-10-01,Tablets,9082,8811.07,East,Alex,Team Ninjas,Corporate
+2023-10-02,Routers,6778.01,7240.4,West,Jordan,Team Hunters,Small Business
+2023-10-03,Printers,13658.58,13216.97,North,Taylor,Team Stars,Education
+2023-10-04,Laptops,11402.46,10547.48,East,Jordan,Team Hunters,Startup
+2023-10-05,Desktop Computers,13213.33,12939.19,South,Taylor,Team Stars,Non-Profit
+2023-10-06,Printers,9671.36,8913,West,Taylor,Team Stars,Individual
+2023-10-07,Printers,9245.02,9473.93,South,Alex,Team Ninjas,Non-Profit
+2023-10-08,Routers,6649.28,7173.67,West,Taylor,Team Stars,Non-Profit
+2023-10-09,Tablets,9294.56,8689.48,West,Taylor,Team Stars,Corporate
+2023-10-10,Desktop Computers,-1678.29,-1748.94,North,Taylor,Team Stars,Education
+2023-10-11,Printers,-1611.11,-1470.1,North,Jordan,Team Hunters,Startup
+2023-10-12,Desktop Computers,6816.06,6872.28,East,Taylor,Team Stars,Education
+2023-10-13,Tablets,3671.89,3820.85,South,Jordan,Team Hunters,Enterprise
+2023-10-14,Desktop Computers,17553.55,17899.97,North,Taylor,Team Stars,Education
+2023-10-15,Routers,1552.6,1635.35,North,Jordan,Team Hunters,Corporate
+2023-10-16,Tablets,4891.4,4940.03,East,Alex,Team Ninjas,Education
+2023-10-17,Laptops,20513.8,20944.5,West,Taylor,Team Stars,Corporate
+2023-10-18,Printers,-1433.24,-1241.41,West,Taylor,Team Stars,Government
+2023-10-19,Desktop Computers,11851.59,11636.74,West,Alex,Team Ninjas,Government
+2023-10-20,Routers,7570.29,7950.56,East,Alex,Team Ninjas,Government
+2023-10-21,Desktop Computers,2496.37,2486.9,East,Alex,Team Ninjas,Small Business
+2023-10-22,Laptops,271.16,223.71,West,Alex,Team Ninjas,Individual
+2023-10-23,Tablets,7284.88,16217.87,West,Jordan,Team Hunters,Government
+2023-10-24,Routers,5601.72,5141.62,West,Jordan,Team Hunters,Government
+2023-10-25,Tablets,17081.88,17455.63,South,Alex,Team Ninjas,Non-Profit
+2023-10-26,Printers,3713.88,3644.28,West,Taylor,Team Stars,Education
+2023-10-27,Laptops,9347.81,9165.63,North,Taylor,Team Stars,Enterprise
+2023-10-28,Tablets,8156.96,7937.92,North,Alex,Team Ninjas,Government
+2023-10-29,Tablets,6289.79,6197.73,South,Jordan,Team Hunters,Education
+2023-10-30,Tablets,-843.61,-848.75,East,Taylor,Team Stars,Corporate
+2023-10-31,Tablets,7183.76,7070.27,West,Taylor,Team Stars,Government
+2023-11-01,Desktop Computers,3340.12,3460.22,East,Taylor,Team Stars,Individual
+2023-11-02,Tablets,5206.24,5321.84,West,Alex,Team Ninjas,Individual
+2023-11-03,Printers,6259.09,5750.81,West,Taylor,Team Stars,Government
+2023-11-04,Laptops,3359.86,3261.85,North,Taylor,Team Stars,Enterprise
+2023-11-05,Tablets,4819.7,4880.28,West,Jordan,Team Hunters,Government
+2023-11-06,Routers,10674.14,10763.55,North,Alex,Team Ninjas,Small Business
+2023-11-07,Desktop Computers,20470,19447.45,East,Alex,Team Ninjas,Education
+2023-11-08,Laptops,818.16,777.88,South,Taylor,Team Stars,Corporate
+2023-11-09,Tablets,4294.01,4298.66,West,Taylor,Team Stars,Individual
+2023-11-10,Tablets,9253.2,8113.88,North,Alex,Team Ninjas,Startup
+2023-11-11,Desktop Computers,-1745.88,-1741.72,West,Alex,Team Ninjas,Startup
+2023-11-12,Laptops,-2351.96,-2400.81,East,Jordan,Team Hunters,Government
+2023-11-13,Tablets,12175.76,11070.23,South,Jordan,Team Hunters,Education
+2023-11-14,Routers,17654.28,19543.74,North,Jordan,Team Hunters,Corporate
+2023-11-15,Laptops,3585.13,3325.34,North,Alex,Team Ninjas,Small Business
+2023-11-16,Routers,18692.93,20102.87,North,Jordan,Team Hunters,Government
+2023-11-17,Desktop Computers,11457.2,11896.67,South,Alex,Team Ninjas,Enterprise
+2023-11-18,Tablets,6334.64,6435.8,East,Taylor,Team Stars,Startup
+2023-11-19,Routers,10442.22,8852.99,East,Taylor,Team Stars,Startup
+2023-11-20,Laptops,11702.92,11520.04,East,Jordan,Team Hunters,Small Business
+2023-11-21,Desktop Computers,15295.93,15544.14,South,Taylor,Team Stars,Non-Profit
+2023-11-22,Laptops,4876.87,4428.93,North,Alex,Team Ninjas,Education
+2023-11-23,Desktop Computers,5539.55,28601.07,North,Alex,Team Ninjas,Non-Profit
+2023-11-24,Tablets,7738.16,7770.41,East,Alex,Team Ninjas,Government
+2023-11-25,Tablets,10683.96,11092.12,West,Jordan,Team Hunters,Corporate
+2023-11-26,Routers,8731.55,8805.41,South,Jordan,Team Hunters,Education
+2023-11-27,Printers,-2681.68,-2914.83,East,Alex,Team Ninjas,Corporate
+2023-11-28,Desktop Computers,3168.17,15516.72,West,Alex,Team Ninjas,Non-Profit
+2023-11-29,Desktop Computers,-695.07,-657.67,East,Alex,Team Ninjas,Education
+2023-11-30,Routers,9235.93,9014.04,South,Alex,Team Ninjas,Small Business
+2023-12-01,Printers,7351.81,7967.55,East,Jordan,Team Hunters,Small Business
+2023-12-02,Printers,-648.53,-727.51,North,Jordan,Team Hunters,Small Business
+2023-12-03,Laptops,-5062.96,-5630.07,West,Alex,Team Ninjas,Government
+2023-12-04,Printers,-6001.39,-6873.61,South,Alex,Team Ninjas,Non-Profit
+2023-12-05,Routers,2476.66,2702.67,West,Taylor,Team Stars,Government
+2023-12-06,Tablets,6330.01,9683.29,South,Jordan,Team Hunters,Individual
+2023-12-07,Desktop Computers,-3282.89,-3644.11,South,Taylor,Team Stars,Individual
+2023-12-08,Routers,9194.99,8188.8,South,Jordan,Team Hunters,Education
+2023-12-09,Printers,7975.64,8099.83,South,Taylor,Team Stars,Startup
+2023-12-10,Tablets,5618.88,11651.35,East,Jordan,Team Hunters,Individual
+2023-12-11,Printers,15573.74,16865.24,West,Jordan,Team Hunters,Startup
+2023-12-12,Routers,652.8,706.48,West,Jordan,Team Hunters,Startup
+2023-12-13,Routers,2650.16,2686.99,North,Jordan,Team Hunters,Small Business
+2023-12-14,Routers,-5299.58,-5153.06,East,Taylor,Team Stars,Enterprise
+2023-12-15,Printers,10654.47,11562.4,West,Alex,Team Ninjas,Enterprise
+2023-12-16,Printers,10179.5,9615.63,South,Jordan,Team Hunters,Small Business
+2023-12-17,Tablets,19741.33,18353.18,South,Taylor,Team Stars,Small Business
+2023-12-18,Tablets,11895.46,11065.88,West,Taylor,Team Stars,Education
+2023-12-19,Laptops,9612.27,8976.99,East,Taylor,Team Stars,Non-Profit
+2023-12-20,Printers,14319.28,13905.4,East,Taylor,Team Stars,Government
+2023-12-21,Printers,4942.99,4803.26,East,Jordan,Team Hunters,Startup
+2023-12-22,Routers,-2848.61,-2940.88,North,Taylor,Team Stars,Startup
+2023-12-23,Printers,5832.86,6583.52,South,Taylor,Team Stars,Non-Profit
+2023-12-24,Tablets,2483.8,2690.93,South,Alex,Team Ninjas,Education
+2023-12-25,Laptops,846.58,838.07,West,Alex,Team Ninjas,Government
+2023-12-26,Laptops,-1566.7,-1756.4,South,Jordan,Team Hunters,Small Business
+2023-12-27,Tablets,8546.94,12765.49,East,Jordan,Team Hunters,Education
+2023-12-28,Desktop Computers,930.42,804.75,South,Jordan,Team Hunters,Non-Profit
+2023-12-29,Routers,17164.73,15308.67,North,Jordan,Team Hunters,Enterprise
+2023-12-30,Printers,7382.32,6725.23,North,Jordan,Team Hunters,Enterprise
+2023-12-31,Printers,5686.98,11934.79,East,Alex,Team Ninjas,Education
+2024-01-01,Routers,-1849.99,-1910.52,North,Alex,Team Ninjas,Government
+2024-01-02,Tablets,20798.95,22676.36,South,Alex,Team Ninjas,Non-Profit
+2024-01-03,Printers,2414.47,2600.75,South,Alex,Team Ninjas,Enterprise
+2024-01-04,Tablets,6381.13,15723.1,West,Taylor,Team Stars,Government
+2024-01-05,Laptops,5423.37,5900.24,South,Taylor,Team Stars,Enterprise
+2024-01-06,Tablets,10463.89,10396,North,Alex,Team Ninjas,Corporate
+2024-01-07,Tablets,14416.58,14983.47,South,Jordan,Team Hunters,Individual
+2024-01-08,Tablets,19797.29,19597.81,East,Alex,Team Ninjas,Small Business
+2024-01-09,Printers,11990.7,12992.02,North,Jordan,Team Hunters,Small Business
+2024-01-10,Laptops,8574.28,12529.25,South,Jordan,Team Hunters,Individual
+2024-01-11,Laptops,2804.78,3123.5,South,Alex,Team Ninjas,Individual
+2024-01-12,Desktop Computers,6123.24,6177.16,North,Taylor,Team Stars,Education
+2024-01-13,Desktop Computers,9639.29,9413.31,East,Jordan,Team Hunters,Individual
+2024-01-14,Laptops,-10913.27,-12532.11,West,Taylor,Team Stars,Startup
+2024-01-15,Laptops,-5227.96,-5425.05,East,Taylor,Team Stars,Individual
+2024-01-16,Printers,-1010.5,-981.03,South,Taylor,Team Stars,Education
+2024-01-17,Desktop Computers,4000.92,9839.08,North,Alex,Team Ninjas,Startup
+2024-01-18,Desktop Computers,4542.63,4109.22,West,Alex,Team Ninjas,Small Business
+2024-01-19,Tablets,-3843.52,-4439.83,East,Jordan,Team Hunters,Education
+2024-01-20,Routers,-5817.79,-6209.75,North,Jordan,Team Hunters,Enterprise
+2024-01-21,Desktop Computers,1545.42,1623.34,North,Taylor,Team Stars,Education
+2024-01-22,Routers,4346.47,4157.68,North,Alex,Team Ninjas,Small Business
+2024-01-23,Printers,-4231.97,-4053.86,North,Alex,Team Ninjas,Enterprise
+2024-01-24,Desktop Computers,8693.85,7415,East,Taylor,Team Stars,Small Business
+2024-01-25,Laptops,6988.9,7381.19,East,Alex,Team Ninjas,Enterprise
+2024-01-26,Laptops,10599.73,11410.33,West,Taylor,Team Stars,Corporate
+2024-01-27,Routers,2684.53,2501.44,West,Alex,Team Ninjas,Education
+2024-01-28,Tablets,18518.69,18649.66,South,Jordan,Team Hunters,Enterprise
+2024-01-29,Routers,9394.02,9440.46,North,Alex,Team Ninjas,Individual
+2024-01-30,Printers,6106.68,6345.01,South,Jordan,Team Hunters,Government
+2024-01-31,Desktop Computers,3023.33,3012.04,North,Jordan,Team Hunters,Government
+2024-02-01,Tablets,21587.91,20486.33,North,Taylor,Team Stars,Government
+2024-02-02,Laptops,5713.1,5419.29,West,Alex,Team Ninjas,Startup
+2024-02-03,Laptops,9183.8,9149.97,North,Taylor,Team Stars,Government
+2024-02-04,Tablets,9587.13,9425.3,South,Jordan,Team Hunters,Non-Profit
+2024-02-05,Laptops,8938.98,8939.3,South,Alex,Team Ninjas,Corporate
+2024-02-06,Tablets,6126.06,5827.93,South,Jordan,Team Hunters,Small Business
+2024-02-07,Desktop Computers,8067.79,7994.66,South,Alex,Team Ninjas,Government
+2024-02-08,Laptops,273.09,273.44,South,Jordan,Team Hunters,Enterprise
+2024-02-09,Laptops,-592.05,-675.68,West,Alex,Team Ninjas,Startup
+2024-02-10,Printers,1502.3,1315.84,East,Taylor,Team Stars,Non-Profit
+2024-02-11,Printers,-1146.56,-1228.03,North,Jordan,Team Hunters,Individual
+2024-02-12,Routers,13958.82,12350.29,East,Alex,Team Ninjas,Non-Profit
+2024-02-13,Printers,15438.77,16374.9,East,Alex,Team Ninjas,Individual
+2024-02-14,Tablets,9737.63,10350.72,East,Taylor,Team Stars,Non-Profit
+2024-02-15,Tablets,-115.62,-124.33,East,Taylor,Team Stars,Government
+2024-02-16,Desktop Computers,15179.49,14473.59,East,Alex,Team Ninjas,Non-Profit
+2024-02-17,Printers,9863.62,11188.35,West,Alex,Team Ninjas,Small Business
+2024-02-18,Tablets,5348.94,6018.41,North,Jordan,Team Hunters,Non-Profit
+2024-02-19,Printers,14571,14583.76,North,Taylor,Team Stars,Government
+2024-02-20,Printers,6722.33,6219.17,East,Alex,Team Ninjas,Startup
+2024-02-21,Printers,7270.63,6205.29,East,Jordan,Team Hunters,Education
+2024-02-22,Laptops,2074.87,2112.75,West,Taylor,Team Stars,Enterprise
+2024-02-23,Routers,3111.6,3639.48,North,Taylor,Team Stars,Education
+2024-02-24,Desktop Computers,6083.26,6068.36,East,Jordan,Team Hunters,Non-Profit
+2024-02-25,Printers,14490,15259.22,North,Alex,Team Ninjas,Small Business
+2024-02-26,Laptops,1214.39,1383.55,North,Taylor,Team Stars,Education
+2024-02-27,Tablets,6916.36,7839.9,South,Taylor,Team Stars,Non-Profit
+2024-02-28,Printers,-3720.67,-3886.5,East,Taylor,Team Stars,Government
+2024-03-01,Routers,5189.94,5983.81,East,Jordan,Team Hunters,Startup
+2024-03-02,Routers,11959.05,11732.31,South,Jordan,Team Hunters,Startup
+2024-03-03,Laptops,5308.95,5630.21,West,Jordan,Team Hunters,Government
+2024-03-04,Printers,10710.38,9788.1,East,Alex,Team Ninjas,Government
+2024-03-05,Laptops,2102.73,1897.21,South,Alex,Team Ninjas,Non-Profit
+2024-03-06,Laptops,8796.84,8989.3,North,Taylor,Team Stars,Small Business
+2024-03-07,Desktop Computers,-474.31,-486.98,South,Jordan,Team Hunters,Non-Profit
+2024-03-08,Laptops,7671.36,8376.45,North,Taylor,Team Stars,Small Business
+2024-03-09,Laptops,6905.53,5894.86,East,Jordan,Team Hunters,Individual
+2024-03-10,Printers,9856.28,9691.4,East,Taylor,Team Stars,Enterprise
+2024-03-11,Routers,12107.29,11168.15,East,Jordan,Team Hunters,Government
+2024-03-12,Printers,6477.18,6244.68,South,Taylor,Team Stars,Individual
+2024-03-13,Desktop Computers,6256.75,6080.65,North,Taylor,Team Stars,Small Business
+2024-03-14,Printers,10391.12,10821.54,South,Taylor,Team Stars,Education
+2024-03-15,Routers,14688.1,12280.58,North,Taylor,Team Stars,Government
+2024-03-16,Tablets,7805.51,7395.83,South,Taylor,Team Stars,Small Business
+2024-03-17,Laptops,1645.12,1701.03,West,Taylor,Team Stars,Corporate
+2024-03-18,Routers,10486.3,10625.92,South,Alex,Team Ninjas,Education
+2024-03-19,Laptops,18617.71,19535.3,South,Jordan,Team Hunters,Enterprise
+2024-03-20,Printers,1968.18,2065.31,East,Taylor,Team Stars,Non-Profit
+2024-03-21,Desktop Computers,3941.17,3784.07,West,Jordan,Team Hunters,Individual
+2024-03-22,Routers,8222.35,8229.15,East,Taylor,Team Stars,Education
+2024-03-23,Laptops,13014.77,14764.34,East,Taylor,Team Stars,Small Business
+2024-03-24,Laptops,12135.64,11455.92,South,Alex,Team Ninjas,Small Business
+2024-03-25,Printers,18490.9,20725.89,North,Jordan,Team Hunters,Corporate
+2024-03-26,Laptops,781.09,681.66,South,Jordan,Team Hunters,Non-Profit
+2024-03-27,Laptops,13113.19,14496.89,North,Taylor,Team Stars,Education
+2024-03-28,Tablets,4177.72,4253.55,North,Jordan,Team Hunters,Government
+2024-03-29,Tablets,7331.14,7931.51,South,Jordan,Team Hunters,Startup
+2024-03-30,Laptops,-1374.53,-1370.82,South,Jordan,Team Hunters,Individual
+2024-03-31,Laptops,6359.94,5706.57,North,Taylor,Team Stars,Individual
+2024-04-01,Routers,6952.85,7335.45,West,Taylor,Team Stars,Enterprise
+2024-04-02,Tablets,1549.8,1398.29,East,Taylor,Team Stars,Individual
+2024-04-03,Tablets,15456.09,17629.79,South,Jordan,Team Hunters,Education
+2024-04-04,Routers,13650.55,13512.44,East,Taylor,Team Stars,Education
+2024-04-05,Routers,9412.19,8742.12,North,Taylor,Team Stars,Corporate
+2024-04-06,Tablets,9412.53,9390.66,North,Alex,Team Ninjas,Startup
+2024-04-07,Laptops,16383.61,16285.8,East,Alex,Team Ninjas,Corporate
+2024-04-08,Tablets,5188.89,5326.01,North,Jordan,Team Hunters,Individual
+2024-04-09,Routers,1353.41,1227.49,South,Alex,Team Ninjas,Corporate
+2024-04-10,Printers,-2205.24,-2550.71,North,Taylor,Team Stars,Corporate
+2024-04-11,Laptops,927.03,948.11,South,Taylor,Team Stars,Corporate
+2024-04-12,Laptops,4365.65,4764.52,South,Jordan,Team Hunters,Education
+2024-04-13,Routers,506.58,520.02,North,Alex,Team Ninjas,Individual
+2024-04-14,Routers,10003.26,10686.44,West,Taylor,Team Stars,Education
+2024-04-15,Laptops,2546.9,2290.48,South,Alex,Team Ninjas,Education
+2024-04-16,Tablets,8086.01,8960.55,East,Alex,Team Ninjas,Individual
+2024-04-17,Routers,10339.49,11095.37,North,Alex,Team Ninjas,Education
+2024-04-18,Desktop Computers,6396.08,7083.26,South,Alex,Team Ninjas,Non-Profit
+2024-04-19,Tablets,12745.43,13212.11,West,Alex,Team Ninjas,Enterprise
+2024-04-20,Routers,8229.76,13985.33,North,Taylor,Team Stars,Education
+2024-04-21,Laptops,-1635.83,-1490.68,East,Alex,Team Ninjas,Individual
+2024-04-22,Routers,24684.96,25302.11,East,Taylor,Team Stars,Government
+2024-04-23,Tablets,9213.72,10031.44,South,Jordan,Team Hunters,Enterprise
+2024-04-24,Desktop Computers,22826.23,19217.46,West,Alex,Team Ninjas,Education
+2024-04-25,Laptops,10208.37,10796.14,West,Taylor,Team Stars,Government
+2024-04-26,Routers,17737.24,16652.74,East,Jordan,Team Hunters,Small Business
+2024-04-27,Routers,6877.16,7242.22,North,Taylor,Team Stars,Education
+2024-04-28,Routers,16838.55,17571.34,East,Alex,Team Ninjas,Enterprise
+2024-04-29,Routers,2105.5,2423.22,North,Taylor,Team Stars,Enterprise
+2024-04-30,Tablets,4931.74,5522.59,North,Jordan,Team Hunters,Education
+2024-05-01,Laptops,-7898.78,-7784.98,North,Taylor,Team Stars,Startup
+2024-05-02,Routers,6952.25,7354.76,East,Jordan,Team Hunters,Non-Profit
+2024-05-03,Routers,2194.15,2181.62,South,Jordan,Team Hunters,Startup
+2024-05-04,Printers,17049.21,17561.97,North,Jordan,Team Hunters,Government
+2024-05-05,Tablets,10781.02,10696.75,East,Jordan,Team Hunters,Corporate
+2024-05-06,Tablets,3893.39,4169.33,West,Taylor,Team Stars,Education
+2024-05-07,Laptops,-271.53,-263.9,West,Alex,Team Ninjas,Small Business
+2024-05-08,Routers,224.4,220.94,East,Alex,Team Ninjas,Enterprise
+2024-05-09,Tablets,429.83,425.17,North,Jordan,Team Hunters,Startup
+2024-05-10,Tablets,7601.99,8033.12,North,Jordan,Team Hunters,Individual
+2024-05-11,Desktop Computers,16805.55,17562.23,East,Jordan,Team Hunters,Enterprise
+2024-05-12,Desktop Computers,11220.44,10907.03,East,Alex,Team Ninjas,Startup
+2024-05-13,Desktop Computers,13791.57,12734.4,East,Alex,Team Ninjas,Government
+2024-05-14,Printers,6139.57,5990.37,South,Taylor,Team Stars,Non-Profit
+2024-05-15,Printers,-1807.3,-1730.37,North,Jordan,Team Hunters,Startup
+2024-05-16,Routers,14351.48,14112.57,North,Jordan,Team Hunters,Enterprise
+2024-05-17,Laptops,14741.38,15200.9,East,Alex,Team Ninjas,Individual
+2024-05-18,Tablets,-6563.4,-6724.76,North,Taylor,Team Stars,Corporate
+2024-05-19,Printers,-409.48,-430.67,South,Alex,Team Ninjas,Government
+2024-05-20,Laptops,-2862.49,-2941.37,South,Jordan,Team Hunters,Education
+2024-05-21,Desktop Computers,16268.55,17892.36,East,Alex,Team Ninjas,Non-Profit
+2024-05-22,Routers,-2565.89,-2580.48,West,Jordan,Team Hunters,Startup
+2024-05-23,Routers,17197.07,20073.91,South,Taylor,Team Stars,Education
+2024-05-24,Tablets,13171.62,13113.39,East,Jordan,Team Hunters,Startup
+2024-05-25,Routers,7069.34,6973.83,East,Taylor,Team Stars,Corporate
+2024-05-26,Desktop Computers,4228.6,4383.25,South,Taylor,Team Stars,Enterprise
+2024-05-27,Routers,-2623.99,-2347.19,South,Jordan,Team Hunters,Non-Profit
+2024-05-28,Tablets,7915.76,9017.36,West,Alex,Team Ninjas,Small Business
+2024-05-29,Routers,15486.8,17147.23,South,Alex,Team Ninjas,Corporate
+2024-05-30,Routers,7733.68,7616.41,West,Alex,Team Ninjas,Individual
+2024-05-31,Tablets,523.72,511.99,North,Jordan,Team Hunters,Startup
+2024-06-01,Tablets,15570.89,17780.85,North,Jordan,Team Hunters,Government
+2024-06-02,Routers,2656.83,3087.8,West,Alex,Team Ninjas,Government
+2024-06-03,Desktop Computers,16716.6,15668.2,South,Alex,Team Ninjas,Individual
+2024-06-04,Laptops,10475.1,11255.78,North,Alex,Team Ninjas,Corporate
+2024-06-05,Routers,6030.52,5926.3,West,Jordan,Team Hunters,Corporate
+2024-06-06,Laptops,-436.86,-430.41,North,Alex,Team Ninjas,Non-Profit
+2024-06-07,Printers,4324.27,4025.36,North,Alex,Team Ninjas,Non-Profit
+2024-06-08,Routers,1185.21,1346.71,West,Taylor,Team Stars,Small Business
+2024-06-09,Laptops,24781.74,27785.5,West,Taylor,Team Stars,Small Business
+2024-06-10,Printers,14303.57,14399.68,East,Alex,Team Ninjas,Enterprise
+2024-06-11,Routers,5366.77,7806.86,North,Alex,Team Ninjas,Government
+2024-06-12,Routers,7634.95,7789.79,West,Jordan,Team Hunters,Government
+2024-06-13,Printers,10811.49,10381.64,South,Jordan,Team Hunters,Individual
+2024-06-14,Desktop Computers,18512.05,18758.98,South,Alex,Team Ninjas,Corporate
+2024-06-15,Routers,2419.76,2779.6,East,Taylor,Team Stars,Education
+2024-06-16,Printers,10849.92,12677.07,North,Alex,Team Ninjas,Small Business
+2024-06-17,Desktop Computers,8779.56,8702.75,North,Jordan,Team Hunters,Corporate
+2024-06-18,Tablets,7283.53,8020.14,North,Jordan,Team Hunters,Individual
+2024-06-19,Printers,13627.73,13300.64,South,Taylor,Team Stars,Small Business
+2024-06-20,Tablets,13584.1,15610.79,East,Alex,Team Ninjas,Individual
+2024-06-21,Routers,15755.4,17490.21,West,Taylor,Team Stars,Corporate
+2024-06-22,Printers,-367.85,-367.28,East,Taylor,Team Stars,Government
+2024-06-23,Tablets,-505.58,-524.34,South,Taylor,Team Stars,Corporate
+2024-06-24,Tablets,-2455.82,-2263.03,South,Alex,Team Ninjas,Non-Profit
+2024-06-25,Desktop Computers,6653.38,6381.58,East,Alex,Team Ninjas,Education
+2024-06-26,Desktop Computers,16739.36,17671.62,North,Alex,Team Ninjas,Individual
+2024-06-27,Routers,13019.15,12729.9,East,Jordan,Team Hunters,Individual
+2024-06-28,Tablets,15950.84,12947.02,West,Alex,Team Ninjas,Individual
+2024-06-29,Tablets,10355.96,10798.35,South,Alex,Team Ninjas,Small Business
+2024-06-30,Laptops,11121.66,16091.17,North,Taylor,Team Stars,Startup
+2024-07-01,Routers,11503.05,13110.16,South,Jordan,Team Hunters,Enterprise
+2024-07-02,Desktop Computers,13406.36,12154.81,West,Alex,Team Ninjas,Enterprise
+2024-07-03,Routers,-5.36,-4.38,North,Alex,Team Ninjas,Corporate
+2024-07-04,Printers,-5162.89,-4688.43,East,Jordan,Team Hunters,Small Business
+2024-07-05,Laptops,693.01,673.5,East,Jordan,Team Hunters,Individual
+2024-07-06,Laptops,3838.19,3288.4,North,Alex,Team Ninjas,Education
+2024-07-07,Laptops,-3588.39,-3853.13,North,Jordan,Team Hunters,Enterprise
+2024-07-08,Routers,12618,12824.76,South,Alex,Team Ninjas,Enterprise
+2024-07-09,Desktop Computers,10763.15,10138.8,East,Alex,Team Ninjas,Non-Profit
+2024-07-10,Desktop Computers,15669.09,15024.76,North,Alex,Team Ninjas,Small Business
+2024-07-11,Tablets,17054.37,17263.99,North,Jordan,Team Hunters,Education
+2024-07-12,Printers,8667.87,9490.18,South,Taylor,Team Stars,Education
+2024-07-13,Printers,5184.66,5010.13,North,Taylor,Team Stars,Individual
+2024-07-14,Desktop Computers,3850.06,3886.03,West,Alex,Team Ninjas,Small Business
+2024-07-15,Laptops,-1738.51,-1736.13,West,Taylor,Team Stars,Corporate
+2024-07-16,Printers,17600,16479.13,East,Jordan,Team Hunters,Corporate
+2024-07-17,Laptops,1668.88,1588.07,East,Taylor,Team Stars,Government
+2024-07-18,Tablets,5868.76,6631.71,East,Alex,Team Ninjas,Government
+2024-07-19,Laptops,20645.61,20508.01,West,Taylor,Team Stars,Small Business
+2024-07-20,Laptops,-1963.31,-1932.08,East,Alex,Team Ninjas,Startup
+2024-07-21,Laptops,-5927.99,-5522.51,South,Alex,Team Ninjas,Small Business
+2024-07-22,Desktop Computers,12466.35,11671.57,East,Alex,Team Ninjas,Corporate
+2024-07-23,Routers,10967.48,10892.77,North,Taylor,Team Stars,Small Business
+2024-07-24,Routers,-1691.13,-1552.95,East,Jordan,Team Hunters,Education
+2024-07-25,Tablets,19691.7,19352.34,West,Taylor,Team Stars,Enterprise
+2024-07-26,Laptops,7253.06,7326.23,West,Taylor,Team Stars,Education
+2024-07-27,Desktop Computers,17961.75,15591.4,South,Alex,Team Ninjas,Small Business
+2024-07-28,Tablets,6527.79,6284.91,North,Alex,Team Ninjas,Enterprise
+2024-07-29,Tablets,14110.42,11788.61,North,Taylor,Team Stars,Individual
+2024-07-30,Routers,11691.54,12429.1,South,Jordan,Team Hunters,Non-Profit
+2024-07-31,Routers,5169.64,5437.08,East,Taylor,Team Stars,Individual
+2024-08-01,Desktop Computers,7335.85,8512.04,North,Alex,Team Ninjas,Education
+2024-08-02,Tablets,10607.14,11432.78,East,Jordan,Team Hunters,Non-Profit
+2024-08-03,Routers,9129.31,7750.7,South,Jordan,Team Hunters,Individual
+2024-08-04,Printers,9779.53,15370.13,South,Alex,Team Ninjas,Startup
+2024-08-05,Routers,10926.34,9310.39,East,Taylor,Team Stars,Education
+2024-08-06,Tablets,-2739.11,-2746.21,East,Taylor,Team Stars,Non-Profit
+2024-08-07,Routers,5692.91,4990.53,West,Jordan,Team Hunters,Small Business
+2024-08-08,Routers,6632.83,7223.69,South,Alex,Team Ninjas,Education
+2024-08-09,Printers,8216.02,8171.52,North,Taylor,Team Stars,Government
+2024-08-10,Routers,9730.26,9587.82,East,Alex,Team Ninjas,Enterprise
+2024-08-11,Printers,9817.12,8522.78,North,Taylor,Team Stars,Non-Profit
+2024-08-12,Routers,392.24,394.37,South,Alex,Team Ninjas,Startup
+2024-08-13,Routers,4237.37,4376.9,East,Alex,Team Ninjas,Small Business
+2024-08-14,Tablets,13987.17,13064.35,South,Alex,Team Ninjas,Small Business
+2024-08-15,Printers,10659.8,11676.01,East,Alex,Team Ninjas,Education
+2024-08-16,Routers,10473.68,10342.93,West,Alex,Team Ninjas,Government
+2024-08-17,Desktop Computers,11782.74,12102.97,North,Taylor,Team Stars,Startup
+2024-08-18,Laptops,21877.47,23914.48,South,Alex,Team Ninjas,Enterprise
+2024-08-19,Laptops,10882.27,10116.52,South,Taylor,Team Stars,Individual
+2024-08-20,Laptops,5756.19,5237.17,East,Taylor,Team Stars,Non-Profit
+2024-08-21,Printers,3661.31,3917.24,East,Alex,Team Ninjas,Education
+2024-08-22,Printers,21976.54,22828.47,West,Alex,Team Ninjas,Corporate
+2024-08-23,Laptops,8411.82,8080.35,East,Jordan,Team Hunters,Individual
+2024-08-24,Desktop Computers,9400,10362.35,South,Taylor,Team Stars,Education
+2024-08-25,Desktop Computers,8523.07,9539.48,East,Jordan,Team Hunters,Individual
+2024-08-26,Desktop Computers,10030.62,9130.73,North,Alex,Team Ninjas,Individual
+2024-08-27,Tablets,-88.67,-90.06,West,Alex,Team Ninjas,Individual
+2024-08-28,Tablets,4010.01,4164.33,North,Alex,Team Ninjas,Individual
+2024-08-29,Printers,-3160.8,-3082.47,North,Jordan,Team Hunters,Corporate
+2024-08-30,Routers,-1359.5,-1347.55,East,Alex,Team Ninjas,Individual
+2024-08-31,Tablets,3506.6,3690.98,West,Alex,Team Ninjas,Government
+2024-09-01,Routers,-7858.32,-6591.98,East,Alex,Team Ninjas,Small Business
+2024-09-02,Printers,16783.55,17381.61,East,Jordan,Team Hunters,Startup
+2024-09-03,Tablets,7619.97,7896.47,East,Alex,Team Ninjas,Government
+2024-09-04,Printers,6435.03,6132.75,East,Taylor,Team Stars,Startup
+2024-09-05,Desktop Computers,1772.76,1732.72,East,Jordan,Team Hunters,Small Business
+2024-09-06,Routers,5707.24,6018.43,North,Taylor,Team Stars,Government
+2024-09-07,Printers,10059.58,10966,East,Alex,Team Ninjas,Corporate
+2024-09-08,Desktop Computers,10382.41,10848.22,South,Alex,Team Ninjas,Non-Profit
+2024-09-09,Printers,4026.55,4172.86,South,Taylor,Team Stars,Small Business
+2024-09-10,Tablets,-1615.67,-1544.43,South,Taylor,Team Stars,Enterprise
+2024-09-11,Printers,11321.31,11135.28,East,Taylor,Team Stars,Corporate
+2024-09-12,Laptops,8810.05,9798.01,South,Jordan,Team Hunters,Enterprise
+2024-09-13,Routers,3551.1,3624.56,East,Jordan,Team Hunters,Small Business
+2024-09-14,Tablets,14127.37,14898.95,North,Alex,Team Ninjas,Enterprise
+2024-09-15,Laptops,10042.27,10537.43,South,Taylor,Team Stars,Government
+2024-09-16,Routers,12566.72,12308.7,North,Jordan,Team Hunters,Startup
+2024-09-17,Printers,14970.58,14233.36,North,Jordan,Team Hunters,Education
+2024-09-18,Tablets,12186.09,13257.01,East,Taylor,Team Stars,Corporate
+2024-09-19,Tablets,2610.06,2722.39,West,Alex,Team Ninjas,Non-Profit
+2024-09-20,Desktop Computers,14183.18,13816.43,North,Alex,Team Ninjas,Enterprise
+2024-09-21,Routers,-3870.12,-3920.94,West,Jordan,Team Hunters,Non-Profit
+2024-09-22,Desktop Computers,8389.15,7861.18,South,Taylor,Team Stars,Small Business
+2024-09-23,Routers,11252.02,12266.76,East,Taylor,Team Stars,Small Business
+2024-09-24,Desktop Computers,7530.63,7158.41,West,Alex,Team Ninjas,Small Business
+2024-09-25,Desktop Computers,4094.68,3720.54,South,Alex,Team Ninjas,Small Business
+2024-09-26,Printers,4680.08,4216.09,South,Taylor,Team Stars,Enterprise
+2024-09-27,Printers,8525.46,9679.25,East,Taylor,Team Stars,Non-Profit
+2024-09-28,Laptops,7366.4,7086.89,West,Jordan,Team Hunters,Government
+2024-09-29,Printers,5155.79,4403.99,West,Jordan,Team Hunters,Startup
+2024-09-30,Desktop Computers,16727.59,18428.71,East,Taylor,Team Stars,Individual
+2024-10-01,Tablets,17985.49,19830.24,North,Taylor,Team Stars,Small Business
+2024-10-02,Tablets,12957.33,12124.53,East,Taylor,Team Stars,Startup
+2024-10-03,Desktop Computers,12309.33,14419.12,North,Alex,Team Ninjas,Individual
+2024-10-04,Desktop Computers,10308,10384.51,East,Jordan,Team Hunters,Individual
+2024-10-05,Printers,17583.78,20729.36,East,Alex,Team Ninjas,Government
+2024-10-06,Tablets,-1052.8,-1022.5,South,Taylor,Team Stars,Small Business
+2024-10-07,Desktop Computers,1481.83,1587.63,North,Alex,Team Ninjas,Enterprise
+2024-10-08,Tablets,9864.35,18763.17,North,Taylor,Team Stars,Education
+2024-10-09,Tablets,-3337.11,-3342.28,East,Jordan,Team Hunters,Corporate
+2024-10-10,Desktop Computers,6462.41,6127.22,North,Taylor,Team Stars,Individual
+2024-10-11,Desktop Computers,8515.48,8749.57,West,Taylor,Team Stars,Small Business
+2024-10-12,Desktop Computers,12122.53,11303.7,South,Taylor,Team Stars,Enterprise
+2024-10-13,Tablets,7175.21,7811.85,East,Alex,Team Ninjas,Corporate
+2024-10-14,Printers,4128.45,3987.1,East,Jordan,Team Hunters,Enterprise
+2024-10-15,Printers,-7347.36,-7365.31,North,Taylor,Team Stars,Non-Profit
+2024-10-16,Laptops,5740.46,12967.49,West,Taylor,Team Stars,Education
+2024-10-17,Tablets,17378.82,17411.06,West,Taylor,Team Stars,Non-Profit
+2024-10-18,Desktop Computers,4399.21,4351.71,West,Alex,Team Ninjas,Education
+2024-10-19,Tablets,2827.07,2282.93,East,Alex,Team Ninjas,Startup
+2024-10-20,Routers,-6164.91,-6263.92,West,Alex,Team Ninjas,Government
+2024-10-21,Laptops,6289.02,5886.81,South,Taylor,Team Stars,Education
+2024-10-22,Tablets,-1611.26,-1719.43,North,Alex,Team Ninjas,Non-Profit
+2024-10-23,Desktop Computers,13249.36,13276.51,North,Jordan,Team Hunters,Corporate
+2024-10-24,Tablets,4761.87,4722.05,North,Jordan,Team Hunters,Government
+2024-10-25,Tablets,5436.41,4747.19,South,Taylor,Team Stars,Startup
+2024-10-26,Tablets,13977.73,13530.94,West,Alex,Team Ninjas,Enterprise
+2024-10-27,Tablets,5626.38,5529.38,South,Jordan,Team Hunters,Individual
+2024-10-28,Printers,5883.77,5750.22,East,Jordan,Team Hunters,Individual
+2024-10-29,Tablets,12618.31,11055.09,South,Jordan,Team Hunters,Government
+2024-10-30,Printers,9651.42,9782.83,North,Jordan,Team Hunters,Corporate
+2024-10-31,Routers,3363.61,3143.64,East,Taylor,Team Stars,Corporate
+2024-11-01,Laptops,3025.09,3150.68,South,Alex,Team Ninjas,Small Business
+2024-11-02,Routers,9379.86,10030.54,North,Alex,Team Ninjas,Individual
+2024-11-03,Laptops,12168.58,12251.4,South,Alex,Team Ninjas,Education
+2024-11-04,Laptops,6304.48,6951.34,North,Jordan,Team Hunters,Individual
+2024-11-05,Laptops,9630.7,9800.56,West,Alex,Team Ninjas,Individual
+2024-11-06,Tablets,747.39,832.56,West,Alex,Team Ninjas,Enterprise
+2024-11-07,Desktop Computers,-5455.01,-6246.28,West,Jordan,Team Hunters,Small Business
+2024-11-08,Routers,7815.08,6829.47,South,Jordan,Team Hunters,Small Business
+2024-11-09,Routers,10335.4,10605.14,South,Jordan,Team Hunters,Startup
+2024-11-10,Tablets,7313.02,14470.1,West,Jordan,Team Hunters,Small Business
+2024-11-11,Desktop Computers,11522.87,11641.28,North,Taylor,Team Stars,Small Business
+2024-11-12,Routers,2788.59,3250,South,Jordan,Team Hunters,Corporate
+2024-11-13,Desktop Computers,7507.83,7758.89,North,Alex,Team Ninjas,Individual
+2024-11-14,Desktop Computers,-3938.6,-3715.42,East,Alex,Team Ninjas,Individual
+2024-11-15,Laptops,458.32,405.59,West,Taylor,Team Stars,Government
+2024-11-16,Printers,-2548.31,-2621.88,North,Jordan,Team Hunters,Individual
+2024-11-17,Routers,7466.14,8457.35,South,Jordan,Team Hunters,Non-Profit
+2024-11-18,Printers,6250.57,7319.59,South,Jordan,Team Hunters,Startup
+2024-11-19,Tablets,15098.99,14615.65,South,Alex,Team Ninjas,Education
+2024-11-20,Routers,11483.9,11363.11,West,Jordan,Team Hunters,Education
+2024-11-21,Desktop Computers,4907.41,5217.49,West,Alex,Team Ninjas,Small Business
+2024-11-22,Desktop Computers,9193,10705.94,West,Jordan,Team Hunters,Education
+2024-11-23,Routers,16145.19,17485.64,East,Taylor,Team Stars,Government
+2024-11-24,Printers,4814.63,4911.06,North,Jordan,Team Hunters,Small Business
+2024-11-25,Printers,-1395.08,-1433.85,East,Jordan,Team Hunters,Non-Profit
+2024-11-26,Laptops,11998.56,12269.68,West,Alex,Team Ninjas,Corporate
+2024-11-27,Tablets,5017.98,5582.62,West,Alex,Team Ninjas,Corporate
+2024-11-28,Tablets,-1835.72,-1936.58,East,Jordan,Team Hunters,Education
+2024-11-29,Routers,-3391.3,-2936.82,North,Taylor,Team Stars,Individual
+2024-11-30,Tablets,3582.29,2915.56,East,Taylor,Team Stars,Individual
+2024-12-01,Tablets,-2890.86,-3009.04,North,Taylor,Team Stars,Education
+2024-12-02,Desktop Computers,4891.66,4932.54,West,Jordan,Team Hunters,Education
+2024-12-03,Laptops,-285.09,-277.7,South,Jordan,Team Hunters,Startup
+2024-12-04,Desktop Computers,7153.91,7054.45,East,Jordan,Team Hunters,Individual
+2024-12-05,Routers,5603.06,6390.01,North,Taylor,Team Stars,Enterprise
+2024-12-06,Printers,10112.57,9856.36,South,Taylor,Team Stars,Small Business
+2024-12-07,Printers,20647.37,19693.85,North,Taylor,Team Stars,Government
+2024-12-08,Printers,1366.8,1420.42,South,Alex,Team Ninjas,Enterprise
+2024-12-09,Desktop Computers,11100.72,10507.4,West,Alex,Team Ninjas,Government
+2024-12-10,Printers,1863.34,1813.34,West,Taylor,Team Stars,Non-Profit
+2024-12-11,Routers,3186.52,3236.89,West,Alex,Team Ninjas,Startup
+2024-12-12,Desktop Computers,276.47,275.94,South,Alex,Team Ninjas,Enterprise
+2024-12-13,Desktop Computers,6304.01,6540.9,North,Taylor,Team Stars,Education
+2024-12-14,Desktop Computers,3725.81,3717.05,West,Jordan,Team Hunters,Corporate
+2024-12-15,Routers,7233.04,7554.1,East,Alex,Team Ninjas,Non-Profit
+2024-12-16,Laptops,3079.24,3134.79,East,Alex,Team Ninjas,Government
+2024-12-17,Desktop Computers,-79.07,-77.65,East,Alex,Team Ninjas,Corporate
+2024-12-18,Desktop Computers,4778.7,4776.99,North,Jordan,Team Hunters,Small Business
+2024-12-19,Routers,5084.34,15115.55,South,Alex,Team Ninjas,Startup
+2024-12-20,Laptops,-3650.92,-3593.81,North,Taylor,Team Stars,Government
+2024-12-21,Printers,5487.78,4793.2,West,Alex,Team Ninjas,Education
+2024-12-22,Tablets,6384.31,5870.15,North,Jordan,Team Hunters,Small Business
+2024-12-23,Laptops,9901.12,8621.14,East,Alex,Team Ninjas,Startup
+2024-12-24,Desktop Computers,8329.81,14863.76,East,Jordan,Team Hunters,Individual
+2024-12-25,Laptops,9288.12,12693.2,South,Jordan,Team Hunters,Individual
+2024-12-26,Routers,3582.7,3518.07,West,Jordan,Team Hunters,Non-Profit
+2024-12-27,Desktop Computers,15568.36,16482.96,South,Alex,Team Ninjas,Non-Profit
+2024-12-28,Desktop Computers,-2728.69,-2846.21,South,Jordan,Team Hunters,Non-Profit
+2024-12-29,Tablets,3804.63,3922.28,West,Alex,Team Ninjas,Startup
+2024-12-30,Printers,2026.18,2204.63,South,Alex,Team Ninjas,Enterprise
+2024-12-31,Tablets,11904.32,19955.91,East,Jordan,Team Hunters,Corporate
